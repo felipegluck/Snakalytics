@@ -1,0 +1,6002 @@
+[
+    {
+        "id": 1,
+        "score": 0,
+        "moves": 33,
+        "time_seconds": 22
+    },
+    {
+        "id": 2,
+        "score": 1,
+        "moves": 64,
+        "time_seconds": 41
+    },
+    {
+        "id": 3,
+        "score": 4,
+        "moves": 83,
+        "time_seconds": 39
+    },
+    {
+        "id": 4,
+        "score": 1,
+        "moves": 31,
+        "time_seconds": 15
+    },
+    {
+        "id": 5,
+        "score": 3,
+        "moves": 71,
+        "time_seconds": 37
+    },
+    {
+        "id": 6,
+        "score": 4,
+        "moves": 100,
+        "time_seconds": 35
+    },
+    {
+        "id": 7,
+        "score": 3,
+        "moves": 59,
+        "time_seconds": 18
+    },
+    {
+        "id": 8,
+        "score": 0,
+        "moves": 12,
+        "time_seconds": 6
+    },
+    {
+        "id": 9,
+        "score": 1,
+        "moves": 62,
+        "time_seconds": 31
+    },
+    {
+        "id": 10,
+        "score": 5,
+        "moves": 111,
+        "time_seconds": 85
+    },
+    {
+        "id": 11,
+        "score": 5,
+        "moves": 136,
+        "time_seconds": 86
+    },
+    {
+        "id": 12,
+        "score": 0,
+        "moves": 47,
+        "time_seconds": 22
+    },
+    {
+        "id": 13,
+        "score": 3,
+        "moves": 66,
+        "time_seconds": 23
+    },
+    {
+        "id": 14,
+        "score": 1,
+        "moves": 57,
+        "time_seconds": 22
+    },
+    {
+        "id": 15,
+        "score": 3,
+        "moves": 101,
+        "time_seconds": 60
+    },
+    {
+        "id": 16,
+        "score": 0,
+        "moves": 32,
+        "time_seconds": 11
+    },
+    {
+        "id": 17,
+        "score": 0,
+        "moves": 26,
+        "time_seconds": 9
+    },
+    {
+        "id": 18,
+        "score": 2,
+        "moves": 39,
+        "time_seconds": 12
+    },
+    {
+        "id": 19,
+        "score": 0,
+        "moves": 46,
+        "time_seconds": 25
+    },
+    {
+        "id": 20,
+        "score": 0,
+        "moves": 24,
+        "time_seconds": 15
+    },
+    {
+        "id": 21,
+        "score": 1,
+        "moves": 32,
+        "time_seconds": 23
+    },
+    {
+        "id": 22,
+        "score": 5,
+        "moves": 127,
+        "time_seconds": 87
+    },
+    {
+        "id": 23,
+        "score": 0,
+        "moves": 45,
+        "time_seconds": 32
+    },
+    {
+        "id": 24,
+        "score": 4,
+        "moves": 55,
+        "time_seconds": 36
+    },
+    {
+        "id": 25,
+        "score": 3,
+        "moves": 95,
+        "time_seconds": 61
+    },
+    {
+        "id": 26,
+        "score": 2,
+        "moves": 61,
+        "time_seconds": 22
+    },
+    {
+        "id": 27,
+        "score": 3,
+        "moves": 84,
+        "time_seconds": 50
+    },
+    {
+        "id": 28,
+        "score": 0,
+        "moves": 18,
+        "time_seconds": 8
+    },
+    {
+        "id": 29,
+        "score": 3,
+        "moves": 56,
+        "time_seconds": 19
+    },
+    {
+        "id": 30,
+        "score": 5,
+        "moves": 94,
+        "time_seconds": 68
+    },
+    {
+        "id": 31,
+        "score": 0,
+        "moves": 23,
+        "time_seconds": 11
+    },
+    {
+        "id": 32,
+        "score": 0,
+        "moves": 49,
+        "time_seconds": 35
+    },
+    {
+        "id": 33,
+        "score": 1,
+        "moves": 32,
+        "time_seconds": 20
+    },
+    {
+        "id": 34,
+        "score": 2,
+        "moves": 54,
+        "time_seconds": 18
+    },
+    {
+        "id": 35,
+        "score": 5,
+        "moves": 137,
+        "time_seconds": 95
+    },
+    {
+        "id": 36,
+        "score": 4,
+        "moves": 94,
+        "time_seconds": 41
+    },
+    {
+        "id": 37,
+        "score": 4,
+        "moves": 67,
+        "time_seconds": 38
+    },
+    {
+        "id": 38,
+        "score": 1,
+        "moves": 49,
+        "time_seconds": 36
+    },
+    {
+        "id": 39,
+        "score": 5,
+        "moves": 110,
+        "time_seconds": 79
+    },
+    {
+        "id": 40,
+        "score": 3,
+        "moves": 97,
+        "time_seconds": 48
+    },
+    {
+        "id": 41,
+        "score": 1,
+        "moves": 40,
+        "time_seconds": 22
+    },
+    {
+        "id": 42,
+        "score": 1,
+        "moves": 52,
+        "time_seconds": 37
+    },
+    {
+        "id": 43,
+        "score": 5,
+        "moves": 94,
+        "time_seconds": 60
+    },
+    {
+        "id": 44,
+        "score": 0,
+        "moves": 40,
+        "time_seconds": 23
+    },
+    {
+        "id": 45,
+        "score": 4,
+        "moves": 59,
+        "time_seconds": 42
+    },
+    {
+        "id": 46,
+        "score": 2,
+        "moves": 35,
+        "time_seconds": 10
+    },
+    {
+        "id": 47,
+        "score": 0,
+        "moves": 21,
+        "time_seconds": 13
+    },
+    {
+        "id": 48,
+        "score": 5,
+        "moves": 85,
+        "time_seconds": 29
+    },
+    {
+        "id": 49,
+        "score": 2,
+        "moves": 61,
+        "time_seconds": 45
+    },
+    {
+        "id": 50,
+        "score": 5,
+        "moves": 132,
+        "time_seconds": 86
+    },
+    {
+        "id": 51,
+        "score": 1,
+        "moves": 49,
+        "time_seconds": 28
+    },
+    {
+        "id": 52,
+        "score": 5,
+        "moves": 90,
+        "time_seconds": 29
+    },
+    {
+        "id": 53,
+        "score": 2,
+        "moves": 70,
+        "time_seconds": 52
+    },
+    {
+        "id": 54,
+        "score": 6,
+        "moves": 98,
+        "time_seconds": 73
+    },
+    {
+        "id": 55,
+        "score": 3,
+        "moves": 73,
+        "time_seconds": 40
+    },
+    {
+        "id": 56,
+        "score": 6,
+        "moves": 130,
+        "time_seconds": 77
+    },
+    {
+        "id": 57,
+        "score": 0,
+        "moves": 31,
+        "time_seconds": 17
+    },
+    {
+        "id": 58,
+        "score": 6,
+        "moves": 83,
+        "time_seconds": 65
+    },
+    {
+        "id": 59,
+        "score": 5,
+        "moves": 92,
+        "time_seconds": 51
+    },
+    {
+        "id": 60,
+        "score": 4,
+        "moves": 94,
+        "time_seconds": 36
+    },
+    {
+        "id": 61,
+        "score": 0,
+        "moves": 37,
+        "time_seconds": 19
+    },
+    {
+        "id": 62,
+        "score": 1,
+        "moves": 30,
+        "time_seconds": 14
+    },
+    {
+        "id": 63,
+        "score": 2,
+        "moves": 30,
+        "time_seconds": 22
+    },
+    {
+        "id": 64,
+        "score": 0,
+        "moves": 41,
+        "time_seconds": 29
+    },
+    {
+        "id": 65,
+        "score": 0,
+        "moves": 43,
+        "time_seconds": 14
+    },
+    {
+        "id": 66,
+        "score": 1,
+        "moves": 45,
+        "time_seconds": 13
+    },
+    {
+        "id": 67,
+        "score": 3,
+        "moves": 77,
+        "time_seconds": 40
+    },
+    {
+        "id": 68,
+        "score": 3,
+        "moves": 83,
+        "time_seconds": 38
+    },
+    {
+        "id": 69,
+        "score": 4,
+        "moves": 76,
+        "time_seconds": 35
+    },
+    {
+        "id": 70,
+        "score": 2,
+        "moves": 50,
+        "time_seconds": 29
+    },
+    {
+        "id": 71,
+        "score": 2,
+        "moves": 40,
+        "time_seconds": 18
+    },
+    {
+        "id": 72,
+        "score": 3,
+        "moves": 65,
+        "time_seconds": 43
+    },
+    {
+        "id": 73,
+        "score": 2,
+        "moves": 60,
+        "time_seconds": 35
+    },
+    {
+        "id": 74,
+        "score": 6,
+        "moves": 116,
+        "time_seconds": 85
+    },
+    {
+        "id": 75,
+        "score": 2,
+        "moves": 78,
+        "time_seconds": 35
+    },
+    {
+        "id": 76,
+        "score": 2,
+        "moves": 31,
+        "time_seconds": 16
+    },
+    {
+        "id": 77,
+        "score": 0,
+        "moves": 43,
+        "time_seconds": 31
+    },
+    {
+        "id": 78,
+        "score": 3,
+        "moves": 73,
+        "time_seconds": 39
+    },
+    {
+        "id": 79,
+        "score": 0,
+        "moves": 39,
+        "time_seconds": 12
+    },
+    {
+        "id": 80,
+        "score": 0,
+        "moves": 36,
+        "time_seconds": 14
+    },
+    {
+        "id": 81,
+        "score": 6,
+        "moves": 145,
+        "time_seconds": 90
+    },
+    {
+        "id": 82,
+        "score": 1,
+        "moves": 34,
+        "time_seconds": 15
+    },
+    {
+        "id": 83,
+        "score": 1,
+        "moves": 39,
+        "time_seconds": 15
+    },
+    {
+        "id": 84,
+        "score": 0,
+        "moves": 20,
+        "time_seconds": 6
+    },
+    {
+        "id": 85,
+        "score": 0,
+        "moves": 17,
+        "time_seconds": 13
+    },
+    {
+        "id": 86,
+        "score": 3,
+        "moves": 101,
+        "time_seconds": 46
+    },
+    {
+        "id": 87,
+        "score": 0,
+        "moves": 20,
+        "time_seconds": 6
+    },
+    {
+        "id": 88,
+        "score": 5,
+        "moves": 98,
+        "time_seconds": 67
+    },
+    {
+        "id": 89,
+        "score": 0,
+        "moves": 15,
+        "time_seconds": 4
+    },
+    {
+        "id": 90,
+        "score": 6,
+        "moves": 75,
+        "time_seconds": 31
+    },
+    {
+        "id": 91,
+        "score": 4,
+        "moves": 94,
+        "time_seconds": 52
+    },
+    {
+        "id": 92,
+        "score": 1,
+        "moves": 44,
+        "time_seconds": 27
+    },
+    {
+        "id": 93,
+        "score": 0,
+        "moves": 50,
+        "time_seconds": 26
+    },
+    {
+        "id": 94,
+        "score": 0,
+        "moves": 10,
+        "time_seconds": 4
+    },
+    {
+        "id": 95,
+        "score": 0,
+        "moves": 23,
+        "time_seconds": 15
+    },
+    {
+        "id": 96,
+        "score": 3,
+        "moves": 70,
+        "time_seconds": 39
+    },
+    {
+        "id": 97,
+        "score": 2,
+        "moves": 88,
+        "time_seconds": 57
+    },
+    {
+        "id": 98,
+        "score": 5,
+        "moves": 110,
+        "time_seconds": 35
+    },
+    {
+        "id": 99,
+        "score": 3,
+        "moves": 86,
+        "time_seconds": 62
+    },
+    {
+        "id": 100,
+        "score": 0,
+        "moves": 17,
+        "time_seconds": 12
+    },
+    {
+        "id": 101,
+        "score": 6,
+        "moves": 162,
+        "time_seconds": 108
+    },
+    {
+        "id": 102,
+        "score": 6,
+        "moves": 84,
+        "time_seconds": 46
+    },
+    {
+        "id": 103,
+        "score": 6,
+        "moves": 128,
+        "time_seconds": 42
+    },
+    {
+        "id": 104,
+        "score": 5,
+        "moves": 65,
+        "time_seconds": 36
+    },
+    {
+        "id": 105,
+        "score": 7,
+        "moves": 84,
+        "time_seconds": 52
+    },
+    {
+        "id": 106,
+        "score": 1,
+        "moves": 28,
+        "time_seconds": 19
+    },
+    {
+        "id": 107,
+        "score": 4,
+        "moves": 86,
+        "time_seconds": 48
+    },
+    {
+        "id": 108,
+        "score": 5,
+        "moves": 139,
+        "time_seconds": 89
+    },
+    {
+        "id": 109,
+        "score": 7,
+        "moves": 151,
+        "time_seconds": 93
+    },
+    {
+        "id": 110,
+        "score": 7,
+        "moves": 118,
+        "time_seconds": 43
+    },
+    {
+        "id": 111,
+        "score": 6,
+        "moves": 143,
+        "time_seconds": 94
+    },
+    {
+        "id": 112,
+        "score": 3,
+        "moves": 48,
+        "time_seconds": 21
+    },
+    {
+        "id": 113,
+        "score": 1,
+        "moves": 33,
+        "time_seconds": 10
+    },
+    {
+        "id": 114,
+        "score": 1,
+        "moves": 42,
+        "time_seconds": 14
+    },
+    {
+        "id": 115,
+        "score": 2,
+        "moves": 63,
+        "time_seconds": 30
+    },
+    {
+        "id": 116,
+        "score": 0,
+        "moves": 35,
+        "time_seconds": 26
+    },
+    {
+        "id": 117,
+        "score": 0,
+        "moves": 33,
+        "time_seconds": 10
+    },
+    {
+        "id": 118,
+        "score": 6,
+        "moves": 83,
+        "time_seconds": 51
+    },
+    {
+        "id": 119,
+        "score": 2,
+        "moves": 79,
+        "time_seconds": 27
+    },
+    {
+        "id": 120,
+        "score": 6,
+        "moves": 141,
+        "time_seconds": 75
+    },
+    {
+        "id": 121,
+        "score": 7,
+        "moves": 94,
+        "time_seconds": 32
+    },
+    {
+        "id": 122,
+        "score": 4,
+        "moves": 76,
+        "time_seconds": 49
+    },
+    {
+        "id": 123,
+        "score": 6,
+        "moves": 102,
+        "time_seconds": 45
+    },
+    {
+        "id": 124,
+        "score": 0,
+        "moves": 40,
+        "time_seconds": 13
+    },
+    {
+        "id": 125,
+        "score": 2,
+        "moves": 49,
+        "time_seconds": 15
+    },
+    {
+        "id": 126,
+        "score": 4,
+        "moves": 106,
+        "time_seconds": 44
+    },
+    {
+        "id": 127,
+        "score": 5,
+        "moves": 90,
+        "time_seconds": 58
+    },
+    {
+        "id": 128,
+        "score": 4,
+        "moves": 86,
+        "time_seconds": 68
+    },
+    {
+        "id": 129,
+        "score": 1,
+        "moves": 51,
+        "time_seconds": 19
+    },
+    {
+        "id": 130,
+        "score": 1,
+        "moves": 30,
+        "time_seconds": 14
+    },
+    {
+        "id": 131,
+        "score": 6,
+        "moves": 98,
+        "time_seconds": 31
+    },
+    {
+        "id": 132,
+        "score": 5,
+        "moves": 126,
+        "time_seconds": 80
+    },
+    {
+        "id": 133,
+        "score": 6,
+        "moves": 91,
+        "time_seconds": 54
+    },
+    {
+        "id": 134,
+        "score": 2,
+        "moves": 41,
+        "time_seconds": 25
+    },
+    {
+        "id": 135,
+        "score": 0,
+        "moves": 22,
+        "time_seconds": 8
+    },
+    {
+        "id": 136,
+        "score": 4,
+        "moves": 99,
+        "time_seconds": 49
+    },
+    {
+        "id": 137,
+        "score": 7,
+        "moves": 151,
+        "time_seconds": 78
+    },
+    {
+        "id": 138,
+        "score": 3,
+        "moves": 84,
+        "time_seconds": 60
+    },
+    {
+        "id": 139,
+        "score": 4,
+        "moves": 58,
+        "time_seconds": 25
+    },
+    {
+        "id": 140,
+        "score": 4,
+        "moves": 96,
+        "time_seconds": 54
+    },
+    {
+        "id": 141,
+        "score": 6,
+        "moves": 127,
+        "time_seconds": 99
+    },
+    {
+        "id": 142,
+        "score": 5,
+        "moves": 111,
+        "time_seconds": 35
+    },
+    {
+        "id": 143,
+        "score": 6,
+        "moves": 164,
+        "time_seconds": 75
+    },
+    {
+        "id": 144,
+        "score": 6,
+        "moves": 61,
+        "time_seconds": 18
+    },
+    {
+        "id": 145,
+        "score": 2,
+        "moves": 88,
+        "time_seconds": 43
+    },
+    {
+        "id": 146,
+        "score": 3,
+        "moves": 106,
+        "time_seconds": 82
+    },
+    {
+        "id": 147,
+        "score": 6,
+        "moves": 94,
+        "time_seconds": 40
+    },
+    {
+        "id": 148,
+        "score": 6,
+        "moves": 139,
+        "time_seconds": 62
+    },
+    {
+        "id": 149,
+        "score": 3,
+        "moves": 56,
+        "time_seconds": 26
+    },
+    {
+        "id": 150,
+        "score": 2,
+        "moves": 54,
+        "time_seconds": 32
+    },
+    {
+        "id": 151,
+        "score": 4,
+        "moves": 119,
+        "time_seconds": 57
+    },
+    {
+        "id": 152,
+        "score": 5,
+        "moves": 87,
+        "time_seconds": 63
+    },
+    {
+        "id": 153,
+        "score": 0,
+        "moves": 27,
+        "time_seconds": 18
+    },
+    {
+        "id": 154,
+        "score": 0,
+        "moves": 25,
+        "time_seconds": 13
+    },
+    {
+        "id": 155,
+        "score": 0,
+        "moves": 30,
+        "time_seconds": 13
+    },
+    {
+        "id": 156,
+        "score": 3,
+        "moves": 101,
+        "time_seconds": 74
+    },
+    {
+        "id": 157,
+        "score": 7,
+        "moves": 117,
+        "time_seconds": 58
+    },
+    {
+        "id": 158,
+        "score": 4,
+        "moves": 51,
+        "time_seconds": 27
+    },
+    {
+        "id": 159,
+        "score": 3,
+        "moves": 102,
+        "time_seconds": 46
+    },
+    {
+        "id": 160,
+        "score": 7,
+        "moves": 97,
+        "time_seconds": 55
+    },
+    {
+        "id": 161,
+        "score": 1,
+        "moves": 48,
+        "time_seconds": 35
+    },
+    {
+        "id": 162,
+        "score": 3,
+        "moves": 83,
+        "time_seconds": 30
+    },
+    {
+        "id": 163,
+        "score": 5,
+        "moves": 85,
+        "time_seconds": 55
+    },
+    {
+        "id": 164,
+        "score": 5,
+        "moves": 88,
+        "time_seconds": 56
+    },
+    {
+        "id": 165,
+        "score": 6,
+        "moves": 158,
+        "time_seconds": 91
+    },
+    {
+        "id": 166,
+        "score": 6,
+        "moves": 78,
+        "time_seconds": 45
+    },
+    {
+        "id": 167,
+        "score": 7,
+        "moves": 106,
+        "time_seconds": 55
+    },
+    {
+        "id": 168,
+        "score": 2,
+        "moves": 41,
+        "time_seconds": 27
+    },
+    {
+        "id": 169,
+        "score": 7,
+        "moves": 166,
+        "time_seconds": 98
+    },
+    {
+        "id": 170,
+        "score": 8,
+        "moves": 154,
+        "time_seconds": 101
+    },
+    {
+        "id": 171,
+        "score": 7,
+        "moves": 145,
+        "time_seconds": 50
+    },
+    {
+        "id": 172,
+        "score": 1,
+        "moves": 67,
+        "time_seconds": 40
+    },
+    {
+        "id": 173,
+        "score": 7,
+        "moves": 102,
+        "time_seconds": 62
+    },
+    {
+        "id": 174,
+        "score": 6,
+        "moves": 141,
+        "time_seconds": 69
+    },
+    {
+        "id": 175,
+        "score": 5,
+        "moves": 134,
+        "time_seconds": 45
+    },
+    {
+        "id": 176,
+        "score": 6,
+        "moves": 85,
+        "time_seconds": 50
+    },
+    {
+        "id": 177,
+        "score": 8,
+        "moves": 154,
+        "time_seconds": 116
+    },
+    {
+        "id": 178,
+        "score": 2,
+        "moves": 69,
+        "time_seconds": 47
+    },
+    {
+        "id": 179,
+        "score": 1,
+        "moves": 50,
+        "time_seconds": 37
+    },
+    {
+        "id": 180,
+        "score": 8,
+        "moves": 118,
+        "time_seconds": 77
+    },
+    {
+        "id": 181,
+        "score": 2,
+        "moves": 54,
+        "time_seconds": 36
+    },
+    {
+        "id": 182,
+        "score": 3,
+        "moves": 41,
+        "time_seconds": 20
+    },
+    {
+        "id": 183,
+        "score": 7,
+        "moves": 113,
+        "time_seconds": 44
+    },
+    {
+        "id": 184,
+        "score": 7,
+        "moves": 130,
+        "time_seconds": 97
+    },
+    {
+        "id": 185,
+        "score": 5,
+        "moves": 58,
+        "time_seconds": 19
+    },
+    {
+        "id": 186,
+        "score": 2,
+        "moves": 53,
+        "time_seconds": 26
+    },
+    {
+        "id": 187,
+        "score": 1,
+        "moves": 41,
+        "time_seconds": 23
+    },
+    {
+        "id": 188,
+        "score": 1,
+        "moves": 55,
+        "time_seconds": 36
+    },
+    {
+        "id": 189,
+        "score": 2,
+        "moves": 49,
+        "time_seconds": 33
+    },
+    {
+        "id": 190,
+        "score": 0,
+        "moves": 17,
+        "time_seconds": 11
+    },
+    {
+        "id": 191,
+        "score": 4,
+        "moves": 70,
+        "time_seconds": 24
+    },
+    {
+        "id": 192,
+        "score": 7,
+        "moves": 177,
+        "time_seconds": 130
+    },
+    {
+        "id": 193,
+        "score": 5,
+        "moves": 57,
+        "time_seconds": 42
+    },
+    {
+        "id": 194,
+        "score": 6,
+        "moves": 60,
+        "time_seconds": 23
+    },
+    {
+        "id": 195,
+        "score": 6,
+        "moves": 147,
+        "time_seconds": 56
+    },
+    {
+        "id": 196,
+        "score": 6,
+        "moves": 125,
+        "time_seconds": 99
+    },
+    {
+        "id": 197,
+        "score": 8,
+        "moves": 186,
+        "time_seconds": 116
+    },
+    {
+        "id": 198,
+        "score": 4,
+        "moves": 100,
+        "time_seconds": 58
+    },
+    {
+        "id": 199,
+        "score": 4,
+        "moves": 59,
+        "time_seconds": 21
+    },
+    {
+        "id": 200,
+        "score": 0,
+        "moves": 40,
+        "time_seconds": 27
+    },
+    {
+        "id": 201,
+        "score": 9,
+        "moves": 156,
+        "time_seconds": 104
+    },
+    {
+        "id": 202,
+        "score": 2,
+        "moves": 77,
+        "time_seconds": 34
+    },
+    {
+        "id": 203,
+        "score": 2,
+        "moves": 69,
+        "time_seconds": 43
+    },
+    {
+        "id": 204,
+        "score": 6,
+        "moves": 127,
+        "time_seconds": 62
+    },
+    {
+        "id": 205,
+        "score": 5,
+        "moves": 96,
+        "time_seconds": 56
+    },
+    {
+        "id": 206,
+        "score": 4,
+        "moves": 59,
+        "time_seconds": 34
+    },
+    {
+        "id": 207,
+        "score": 6,
+        "moves": 104,
+        "time_seconds": 66
+    },
+    {
+        "id": 208,
+        "score": 2,
+        "moves": 68,
+        "time_seconds": 49
+    },
+    {
+        "id": 209,
+        "score": 0,
+        "moves": 27,
+        "time_seconds": 8
+    },
+    {
+        "id": 210,
+        "score": 1,
+        "moves": 66,
+        "time_seconds": 32
+    },
+    {
+        "id": 211,
+        "score": 0,
+        "moves": 36,
+        "time_seconds": 28
+    },
+    {
+        "id": 212,
+        "score": 8,
+        "moves": 127,
+        "time_seconds": 44
+    },
+    {
+        "id": 213,
+        "score": 9,
+        "moves": 164,
+        "time_seconds": 69
+    },
+    {
+        "id": 214,
+        "score": 1,
+        "moves": 56,
+        "time_seconds": 23
+    },
+    {
+        "id": 215,
+        "score": 4,
+        "moves": 47,
+        "time_seconds": 26
+    },
+    {
+        "id": 216,
+        "score": 5,
+        "moves": 100,
+        "time_seconds": 32
+    },
+    {
+        "id": 217,
+        "score": 6,
+        "moves": 165,
+        "time_seconds": 98
+    },
+    {
+        "id": 218,
+        "score": 8,
+        "moves": 130,
+        "time_seconds": 93
+    },
+    {
+        "id": 219,
+        "score": 2,
+        "moves": 62,
+        "time_seconds": 41
+    },
+    {
+        "id": 220,
+        "score": 3,
+        "moves": 50,
+        "time_seconds": 18
+    },
+    {
+        "id": 221,
+        "score": 1,
+        "moves": 45,
+        "time_seconds": 28
+    },
+    {
+        "id": 222,
+        "score": 3,
+        "moves": 52,
+        "time_seconds": 36
+    },
+    {
+        "id": 223,
+        "score": 3,
+        "moves": 66,
+        "time_seconds": 32
+    },
+    {
+        "id": 224,
+        "score": 4,
+        "moves": 86,
+        "time_seconds": 59
+    },
+    {
+        "id": 225,
+        "score": 0,
+        "moves": 24,
+        "time_seconds": 9
+    },
+    {
+        "id": 226,
+        "score": 8,
+        "moves": 153,
+        "time_seconds": 116
+    },
+    {
+        "id": 227,
+        "score": 7,
+        "moves": 120,
+        "time_seconds": 70
+    },
+    {
+        "id": 228,
+        "score": 9,
+        "moves": 128,
+        "time_seconds": 88
+    },
+    {
+        "id": 229,
+        "score": 3,
+        "moves": 49,
+        "time_seconds": 30
+    },
+    {
+        "id": 230,
+        "score": 1,
+        "moves": 44,
+        "time_seconds": 21
+    },
+    {
+        "id": 231,
+        "score": 2,
+        "moves": 49,
+        "time_seconds": 23
+    },
+    {
+        "id": 232,
+        "score": 2,
+        "moves": 57,
+        "time_seconds": 37
+    },
+    {
+        "id": 233,
+        "score": 9,
+        "moves": 141,
+        "time_seconds": 60
+    },
+    {
+        "id": 234,
+        "score": 1,
+        "moves": 45,
+        "time_seconds": 15
+    },
+    {
+        "id": 235,
+        "score": 5,
+        "moves": 120,
+        "time_seconds": 64
+    },
+    {
+        "id": 236,
+        "score": 2,
+        "moves": 63,
+        "time_seconds": 21
+    },
+    {
+        "id": 237,
+        "score": 6,
+        "moves": 125,
+        "time_seconds": 59
+    },
+    {
+        "id": 238,
+        "score": 8,
+        "moves": 151,
+        "time_seconds": 94
+    },
+    {
+        "id": 239,
+        "score": 8,
+        "moves": 119,
+        "time_seconds": 75
+    },
+    {
+        "id": 240,
+        "score": 6,
+        "moves": 139,
+        "time_seconds": 108
+    },
+    {
+        "id": 241,
+        "score": 9,
+        "moves": 123,
+        "time_seconds": 70
+    },
+    {
+        "id": 242,
+        "score": 1,
+        "moves": 35,
+        "time_seconds": 21
+    },
+    {
+        "id": 243,
+        "score": 8,
+        "moves": 166,
+        "time_seconds": 112
+    },
+    {
+        "id": 244,
+        "score": 5,
+        "moves": 119,
+        "time_seconds": 68
+    },
+    {
+        "id": 245,
+        "score": 8,
+        "moves": 209,
+        "time_seconds": 135
+    },
+    {
+        "id": 246,
+        "score": 0,
+        "moves": 22,
+        "time_seconds": 10
+    },
+    {
+        "id": 247,
+        "score": 5,
+        "moves": 122,
+        "time_seconds": 58
+    },
+    {
+        "id": 248,
+        "score": 7,
+        "moves": 78,
+        "time_seconds": 42
+    },
+    {
+        "id": 249,
+        "score": 7,
+        "moves": 155,
+        "time_seconds": 94
+    },
+    {
+        "id": 250,
+        "score": 9,
+        "moves": 113,
+        "time_seconds": 41
+    },
+    {
+        "id": 251,
+        "score": 6,
+        "moves": 114,
+        "time_seconds": 86
+    },
+    {
+        "id": 252,
+        "score": 9,
+        "moves": 184,
+        "time_seconds": 74
+    },
+    {
+        "id": 253,
+        "score": 10,
+        "moves": 197,
+        "time_seconds": 108
+    },
+    {
+        "id": 254,
+        "score": 3,
+        "moves": 81,
+        "time_seconds": 44
+    },
+    {
+        "id": 255,
+        "score": 10,
+        "moves": 155,
+        "time_seconds": 83
+    },
+    {
+        "id": 256,
+        "score": 4,
+        "moves": 92,
+        "time_seconds": 29
+    },
+    {
+        "id": 257,
+        "score": 10,
+        "moves": 193,
+        "time_seconds": 111
+    },
+    {
+        "id": 258,
+        "score": 0,
+        "moves": 23,
+        "time_seconds": 14
+    },
+    {
+        "id": 259,
+        "score": 5,
+        "moves": 64,
+        "time_seconds": 23
+    },
+    {
+        "id": 260,
+        "score": 3,
+        "moves": 83,
+        "time_seconds": 53
+    },
+    {
+        "id": 261,
+        "score": 6,
+        "moves": 140,
+        "time_seconds": 107
+    },
+    {
+        "id": 262,
+        "score": 0,
+        "moves": 22,
+        "time_seconds": 16
+    },
+    {
+        "id": 263,
+        "score": 1,
+        "moves": 21,
+        "time_seconds": 8
+    },
+    {
+        "id": 264,
+        "score": 1,
+        "moves": 47,
+        "time_seconds": 20
+    },
+    {
+        "id": 265,
+        "score": 8,
+        "moves": 162,
+        "time_seconds": 55
+    },
+    {
+        "id": 266,
+        "score": 6,
+        "moves": 137,
+        "time_seconds": 92
+    },
+    {
+        "id": 267,
+        "score": 1,
+        "moves": 42,
+        "time_seconds": 29
+    },
+    {
+        "id": 268,
+        "score": 1,
+        "moves": 52,
+        "time_seconds": 31
+    },
+    {
+        "id": 269,
+        "score": 5,
+        "moves": 117,
+        "time_seconds": 54
+    },
+    {
+        "id": 270,
+        "score": 3,
+        "moves": 37,
+        "time_seconds": 22
+    },
+    {
+        "id": 271,
+        "score": 1,
+        "moves": 37,
+        "time_seconds": 20
+    },
+    {
+        "id": 272,
+        "score": 9,
+        "moves": 120,
+        "time_seconds": 73
+    },
+    {
+        "id": 273,
+        "score": 3,
+        "moves": 95,
+        "time_seconds": 61
+    },
+    {
+        "id": 274,
+        "score": 0,
+        "moves": 49,
+        "time_seconds": 15
+    },
+    {
+        "id": 275,
+        "score": 0,
+        "moves": 15,
+        "time_seconds": 6
+    },
+    {
+        "id": 276,
+        "score": 8,
+        "moves": 179,
+        "time_seconds": 109
+    },
+    {
+        "id": 277,
+        "score": 7,
+        "moves": 131,
+        "time_seconds": 101
+    },
+    {
+        "id": 278,
+        "score": 1,
+        "moves": 52,
+        "time_seconds": 23
+    },
+    {
+        "id": 279,
+        "score": 2,
+        "moves": 58,
+        "time_seconds": 21
+    },
+    {
+        "id": 280,
+        "score": 9,
+        "moves": 129,
+        "time_seconds": 79
+    },
+    {
+        "id": 281,
+        "score": 3,
+        "moves": 45,
+        "time_seconds": 16
+    },
+    {
+        "id": 282,
+        "score": 10,
+        "moves": 103,
+        "time_seconds": 48
+    },
+    {
+        "id": 283,
+        "score": 8,
+        "moves": 130,
+        "time_seconds": 88
+    },
+    {
+        "id": 284,
+        "score": 5,
+        "moves": 101,
+        "time_seconds": 59
+    },
+    {
+        "id": 285,
+        "score": 5,
+        "moves": 78,
+        "time_seconds": 36
+    },
+    {
+        "id": 286,
+        "score": 9,
+        "moves": 164,
+        "time_seconds": 129
+    },
+    {
+        "id": 287,
+        "score": 6,
+        "moves": 100,
+        "time_seconds": 37
+    },
+    {
+        "id": 288,
+        "score": 2,
+        "moves": 69,
+        "time_seconds": 46
+    },
+    {
+        "id": 289,
+        "score": 10,
+        "moves": 156,
+        "time_seconds": 111
+    },
+    {
+        "id": 290,
+        "score": 5,
+        "moves": 101,
+        "time_seconds": 78
+    },
+    {
+        "id": 291,
+        "score": 3,
+        "moves": 67,
+        "time_seconds": 24
+    },
+    {
+        "id": 292,
+        "score": 5,
+        "moves": 102,
+        "time_seconds": 58
+    },
+    {
+        "id": 293,
+        "score": 0,
+        "moves": 47,
+        "time_seconds": 23
+    },
+    {
+        "id": 294,
+        "score": 1,
+        "moves": 56,
+        "time_seconds": 38
+    },
+    {
+        "id": 295,
+        "score": 8,
+        "moves": 117,
+        "time_seconds": 36
+    },
+    {
+        "id": 296,
+        "score": 2,
+        "moves": 44,
+        "time_seconds": 13
+    },
+    {
+        "id": 297,
+        "score": 8,
+        "moves": 176,
+        "time_seconds": 60
+    },
+    {
+        "id": 298,
+        "score": 5,
+        "moves": 83,
+        "time_seconds": 42
+    },
+    {
+        "id": 299,
+        "score": 1,
+        "moves": 59,
+        "time_seconds": 28
+    },
+    {
+        "id": 300,
+        "score": 5,
+        "moves": 110,
+        "time_seconds": 50
+    },
+    {
+        "id": 301,
+        "score": 4,
+        "moves": 91,
+        "time_seconds": 43
+    },
+    {
+        "id": 302,
+        "score": 4,
+        "moves": 95,
+        "time_seconds": 61
+    },
+    {
+        "id": 303,
+        "score": 6,
+        "moves": 107,
+        "time_seconds": 32
+    },
+    {
+        "id": 304,
+        "score": 6,
+        "moves": 135,
+        "time_seconds": 79
+    },
+    {
+        "id": 305,
+        "score": 3,
+        "moves": 61,
+        "time_seconds": 33
+    },
+    {
+        "id": 306,
+        "score": 6,
+        "moves": 73,
+        "time_seconds": 29
+    },
+    {
+        "id": 307,
+        "score": 6,
+        "moves": 82,
+        "time_seconds": 60
+    },
+    {
+        "id": 308,
+        "score": 6,
+        "moves": 87,
+        "time_seconds": 55
+    },
+    {
+        "id": 309,
+        "score": 9,
+        "moves": 122,
+        "time_seconds": 90
+    },
+    {
+        "id": 310,
+        "score": 5,
+        "moves": 103,
+        "time_seconds": 33
+    },
+    {
+        "id": 311,
+        "score": 8,
+        "moves": 98,
+        "time_seconds": 57
+    },
+    {
+        "id": 312,
+        "score": 11,
+        "moves": 206,
+        "time_seconds": 156
+    },
+    {
+        "id": 313,
+        "score": 8,
+        "moves": 171,
+        "time_seconds": 87
+    },
+    {
+        "id": 314,
+        "score": 11,
+        "moves": 137,
+        "time_seconds": 61
+    },
+    {
+        "id": 315,
+        "score": 10,
+        "moves": 207,
+        "time_seconds": 154
+    },
+    {
+        "id": 316,
+        "score": 7,
+        "moves": 158,
+        "time_seconds": 113
+    },
+    {
+        "id": 317,
+        "score": 5,
+        "moves": 120,
+        "time_seconds": 36
+    },
+    {
+        "id": 318,
+        "score": 0,
+        "moves": 17,
+        "time_seconds": 12
+    },
+    {
+        "id": 319,
+        "score": 7,
+        "moves": 154,
+        "time_seconds": 105
+    },
+    {
+        "id": 320,
+        "score": 2,
+        "moves": 41,
+        "time_seconds": 25
+    },
+    {
+        "id": 321,
+        "score": 10,
+        "moves": 149,
+        "time_seconds": 51
+    },
+    {
+        "id": 322,
+        "score": 6,
+        "moves": 112,
+        "time_seconds": 61
+    },
+    {
+        "id": 323,
+        "score": 5,
+        "moves": 90,
+        "time_seconds": 67
+    },
+    {
+        "id": 324,
+        "score": 1,
+        "moves": 65,
+        "time_seconds": 30
+    },
+    {
+        "id": 325,
+        "score": 10,
+        "moves": 152,
+        "time_seconds": 91
+    },
+    {
+        "id": 326,
+        "score": 5,
+        "moves": 131,
+        "time_seconds": 62
+    },
+    {
+        "id": 327,
+        "score": 6,
+        "moves": 150,
+        "time_seconds": 81
+    },
+    {
+        "id": 328,
+        "score": 11,
+        "moves": 187,
+        "time_seconds": 77
+    },
+    {
+        "id": 329,
+        "score": 1,
+        "moves": 43,
+        "time_seconds": 25
+    },
+    {
+        "id": 330,
+        "score": 9,
+        "moves": 161,
+        "time_seconds": 94
+    },
+    {
+        "id": 331,
+        "score": 4,
+        "moves": 106,
+        "time_seconds": 38
+    },
+    {
+        "id": 332,
+        "score": 11,
+        "moves": 244,
+        "time_seconds": 178
+    },
+    {
+        "id": 333,
+        "score": 0,
+        "moves": 10,
+        "time_seconds": 7
+    },
+    {
+        "id": 334,
+        "score": 2,
+        "moves": 56,
+        "time_seconds": 35
+    },
+    {
+        "id": 335,
+        "score": 9,
+        "moves": 171,
+        "time_seconds": 113
+    },
+    {
+        "id": 336,
+        "score": 3,
+        "moves": 88,
+        "time_seconds": 42
+    },
+    {
+        "id": 337,
+        "score": 7,
+        "moves": 177,
+        "time_seconds": 106
+    },
+    {
+        "id": 338,
+        "score": 8,
+        "moves": 90,
+        "time_seconds": 64
+    },
+    {
+        "id": 339,
+        "score": 2,
+        "moves": 81,
+        "time_seconds": 32
+    },
+    {
+        "id": 340,
+        "score": 5,
+        "moves": 84,
+        "time_seconds": 25
+    },
+    {
+        "id": 341,
+        "score": 4,
+        "moves": 77,
+        "time_seconds": 48
+    },
+    {
+        "id": 342,
+        "score": 7,
+        "moves": 133,
+        "time_seconds": 49
+    },
+    {
+        "id": 343,
+        "score": 4,
+        "moves": 101,
+        "time_seconds": 43
+    },
+    {
+        "id": 344,
+        "score": 0,
+        "moves": 13,
+        "time_seconds": 6
+    },
+    {
+        "id": 345,
+        "score": 8,
+        "moves": 146,
+        "time_seconds": 65
+    },
+    {
+        "id": 346,
+        "score": 6,
+        "moves": 119,
+        "time_seconds": 38
+    },
+    {
+        "id": 347,
+        "score": 7,
+        "moves": 106,
+        "time_seconds": 36
+    },
+    {
+        "id": 348,
+        "score": 5,
+        "moves": 72,
+        "time_seconds": 52
+    },
+    {
+        "id": 349,
+        "score": 6,
+        "moves": 90,
+        "time_seconds": 28
+    },
+    {
+        "id": 350,
+        "score": 1,
+        "moves": 37,
+        "time_seconds": 28
+    },
+    {
+        "id": 351,
+        "score": 8,
+        "moves": 148,
+        "time_seconds": 89
+    },
+    {
+        "id": 352,
+        "score": 3,
+        "moves": 71,
+        "time_seconds": 40
+    },
+    {
+        "id": 353,
+        "score": 2,
+        "moves": 79,
+        "time_seconds": 54
+    },
+    {
+        "id": 354,
+        "score": 1,
+        "moves": 41,
+        "time_seconds": 24
+    },
+    {
+        "id": 355,
+        "score": 0,
+        "moves": 20,
+        "time_seconds": 9
+    },
+    {
+        "id": 356,
+        "score": 2,
+        "moves": 69,
+        "time_seconds": 22
+    },
+    {
+        "id": 357,
+        "score": 2,
+        "moves": 63,
+        "time_seconds": 49
+    },
+    {
+        "id": 358,
+        "score": 10,
+        "moves": 151,
+        "time_seconds": 115
+    },
+    {
+        "id": 359,
+        "score": 9,
+        "moves": 210,
+        "time_seconds": 116
+    },
+    {
+        "id": 360,
+        "score": 7,
+        "moves": 103,
+        "time_seconds": 49
+    },
+    {
+        "id": 361,
+        "score": 2,
+        "moves": 59,
+        "time_seconds": 22
+    },
+    {
+        "id": 362,
+        "score": 2,
+        "moves": 50,
+        "time_seconds": 30
+    },
+    {
+        "id": 363,
+        "score": 5,
+        "moves": 114,
+        "time_seconds": 68
+    },
+    {
+        "id": 364,
+        "score": 3,
+        "moves": 48,
+        "time_seconds": 34
+    },
+    {
+        "id": 365,
+        "score": 5,
+        "moves": 105,
+        "time_seconds": 76
+    },
+    {
+        "id": 366,
+        "score": 2,
+        "moves": 42,
+        "time_seconds": 32
+    },
+    {
+        "id": 367,
+        "score": 2,
+        "moves": 36,
+        "time_seconds": 14
+    },
+    {
+        "id": 368,
+        "score": 2,
+        "moves": 73,
+        "time_seconds": 30
+    },
+    {
+        "id": 369,
+        "score": 8,
+        "moves": 144,
+        "time_seconds": 79
+    },
+    {
+        "id": 370,
+        "score": 8,
+        "moves": 185,
+        "time_seconds": 62
+    },
+    {
+        "id": 371,
+        "score": 9,
+        "moves": 219,
+        "time_seconds": 149
+    },
+    {
+        "id": 372,
+        "score": 0,
+        "moves": 39,
+        "time_seconds": 14
+    },
+    {
+        "id": 373,
+        "score": 8,
+        "moves": 169,
+        "time_seconds": 71
+    },
+    {
+        "id": 374,
+        "score": 3,
+        "moves": 103,
+        "time_seconds": 34
+    },
+    {
+        "id": 375,
+        "score": 3,
+        "moves": 76,
+        "time_seconds": 53
+    },
+    {
+        "id": 376,
+        "score": 2,
+        "moves": 67,
+        "time_seconds": 52
+    },
+    {
+        "id": 377,
+        "score": 4,
+        "moves": 106,
+        "time_seconds": 76
+    },
+    {
+        "id": 378,
+        "score": 11,
+        "moves": 124,
+        "time_seconds": 78
+    },
+    {
+        "id": 379,
+        "score": 0,
+        "moves": 33,
+        "time_seconds": 22
+    },
+    {
+        "id": 380,
+        "score": 5,
+        "moves": 84,
+        "time_seconds": 45
+    },
+    {
+        "id": 381,
+        "score": 1,
+        "moves": 34,
+        "time_seconds": 21
+    },
+    {
+        "id": 382,
+        "score": 11,
+        "moves": 197,
+        "time_seconds": 112
+    },
+    {
+        "id": 383,
+        "score": 8,
+        "moves": 141,
+        "time_seconds": 72
+    },
+    {
+        "id": 384,
+        "score": 12,
+        "moves": 148,
+        "time_seconds": 62
+    },
+    {
+        "id": 385,
+        "score": 0,
+        "moves": 46,
+        "time_seconds": 30
+    },
+    {
+        "id": 386,
+        "score": 2,
+        "moves": 87,
+        "time_seconds": 41
+    },
+    {
+        "id": 387,
+        "score": 9,
+        "moves": 187,
+        "time_seconds": 103
+    },
+    {
+        "id": 388,
+        "score": 5,
+        "moves": 86,
+        "time_seconds": 28
+    },
+    {
+        "id": 389,
+        "score": 6,
+        "moves": 95,
+        "time_seconds": 43
+    },
+    {
+        "id": 390,
+        "score": 11,
+        "moves": 259,
+        "time_seconds": 96
+    },
+    {
+        "id": 391,
+        "score": 4,
+        "moves": 113,
+        "time_seconds": 51
+    },
+    {
+        "id": 392,
+        "score": 12,
+        "moves": 206,
+        "time_seconds": 62
+    },
+    {
+        "id": 393,
+        "score": 2,
+        "moves": 56,
+        "time_seconds": 38
+    },
+    {
+        "id": 394,
+        "score": 7,
+        "moves": 163,
+        "time_seconds": 75
+    },
+    {
+        "id": 395,
+        "score": 11,
+        "moves": 208,
+        "time_seconds": 120
+    },
+    {
+        "id": 396,
+        "score": 1,
+        "moves": 50,
+        "time_seconds": 20
+    },
+    {
+        "id": 397,
+        "score": 12,
+        "moves": 124,
+        "time_seconds": 46
+    },
+    {
+        "id": 398,
+        "score": 8,
+        "moves": 101,
+        "time_seconds": 79
+    },
+    {
+        "id": 399,
+        "score": 5,
+        "moves": 143,
+        "time_seconds": 60
+    },
+    {
+        "id": 400,
+        "score": 8,
+        "moves": 181,
+        "time_seconds": 85
+    },
+    {
+        "id": 401,
+        "score": 0,
+        "moves": 13,
+        "time_seconds": 6
+    },
+    {
+        "id": 402,
+        "score": 5,
+        "moves": 71,
+        "time_seconds": 22
+    },
+    {
+        "id": 403,
+        "score": 7,
+        "moves": 131,
+        "time_seconds": 63
+    },
+    {
+        "id": 404,
+        "score": 11,
+        "moves": 224,
+        "time_seconds": 138
+    },
+    {
+        "id": 405,
+        "score": 10,
+        "moves": 118,
+        "time_seconds": 71
+    },
+    {
+        "id": 406,
+        "score": 3,
+        "moves": 58,
+        "time_seconds": 39
+    },
+    {
+        "id": 407,
+        "score": 4,
+        "moves": 70,
+        "time_seconds": 28
+    },
+    {
+        "id": 408,
+        "score": 6,
+        "moves": 118,
+        "time_seconds": 84
+    },
+    {
+        "id": 409,
+        "score": 2,
+        "moves": 54,
+        "time_seconds": 36
+    },
+    {
+        "id": 410,
+        "score": 0,
+        "moves": 28,
+        "time_seconds": 14
+    },
+    {
+        "id": 411,
+        "score": 9,
+        "moves": 191,
+        "time_seconds": 79
+    },
+    {
+        "id": 412,
+        "score": 5,
+        "moves": 84,
+        "time_seconds": 38
+    },
+    {
+        "id": 413,
+        "score": 13,
+        "moves": 220,
+        "time_seconds": 106
+    },
+    {
+        "id": 414,
+        "score": 8,
+        "moves": 134,
+        "time_seconds": 40
+    },
+    {
+        "id": 415,
+        "score": 6,
+        "moves": 131,
+        "time_seconds": 68
+    },
+    {
+        "id": 416,
+        "score": 2,
+        "moves": 60,
+        "time_seconds": 32
+    },
+    {
+        "id": 417,
+        "score": 10,
+        "moves": 100,
+        "time_seconds": 78
+    },
+    {
+        "id": 418,
+        "score": 5,
+        "moves": 127,
+        "time_seconds": 79
+    },
+    {
+        "id": 419,
+        "score": 3,
+        "moves": 78,
+        "time_seconds": 40
+    },
+    {
+        "id": 420,
+        "score": 7,
+        "moves": 143,
+        "time_seconds": 101
+    },
+    {
+        "id": 421,
+        "score": 10,
+        "moves": 101,
+        "time_seconds": 74
+    },
+    {
+        "id": 422,
+        "score": 8,
+        "moves": 194,
+        "time_seconds": 103
+    },
+    {
+        "id": 423,
+        "score": 10,
+        "moves": 204,
+        "time_seconds": 100
+    },
+    {
+        "id": 424,
+        "score": 1,
+        "moves": 47,
+        "time_seconds": 28
+    },
+    {
+        "id": 425,
+        "score": 12,
+        "moves": 166,
+        "time_seconds": 129
+    },
+    {
+        "id": 426,
+        "score": 1,
+        "moves": 59,
+        "time_seconds": 39
+    },
+    {
+        "id": 427,
+        "score": 13,
+        "moves": 230,
+        "time_seconds": 77
+    },
+    {
+        "id": 428,
+        "score": 9,
+        "moves": 178,
+        "time_seconds": 91
+    },
+    {
+        "id": 429,
+        "score": 2,
+        "moves": 61,
+        "time_seconds": 24
+    },
+    {
+        "id": 430,
+        "score": 5,
+        "moves": 79,
+        "time_seconds": 50
+    },
+    {
+        "id": 431,
+        "score": 11,
+        "moves": 253,
+        "time_seconds": 178
+    },
+    {
+        "id": 432,
+        "score": 9,
+        "moves": 173,
+        "time_seconds": 106
+    },
+    {
+        "id": 433,
+        "score": 0,
+        "moves": 40,
+        "time_seconds": 18
+    },
+    {
+        "id": 434,
+        "score": 6,
+        "moves": 126,
+        "time_seconds": 64
+    },
+    {
+        "id": 435,
+        "score": 5,
+        "moves": 116,
+        "time_seconds": 57
+    },
+    {
+        "id": 436,
+        "score": 13,
+        "moves": 202,
+        "time_seconds": 143
+    },
+    {
+        "id": 437,
+        "score": 2,
+        "moves": 46,
+        "time_seconds": 27
+    },
+    {
+        "id": 438,
+        "score": 12,
+        "moves": 290,
+        "time_seconds": 112
+    },
+    {
+        "id": 439,
+        "score": 4,
+        "moves": 58,
+        "time_seconds": 28
+    },
+    {
+        "id": 440,
+        "score": 8,
+        "moves": 122,
+        "time_seconds": 51
+    },
+    {
+        "id": 441,
+        "score": 4,
+        "moves": 107,
+        "time_seconds": 84
+    },
+    {
+        "id": 442,
+        "score": 6,
+        "moves": 107,
+        "time_seconds": 56
+    },
+    {
+        "id": 443,
+        "score": 0,
+        "moves": 35,
+        "time_seconds": 25
+    },
+    {
+        "id": 444,
+        "score": 3,
+        "moves": 103,
+        "time_seconds": 32
+    },
+    {
+        "id": 445,
+        "score": 10,
+        "moves": 227,
+        "time_seconds": 68
+    },
+    {
+        "id": 446,
+        "score": 13,
+        "moves": 251,
+        "time_seconds": 197
+    },
+    {
+        "id": 447,
+        "score": 5,
+        "moves": 68,
+        "time_seconds": 49
+    },
+    {
+        "id": 448,
+        "score": 2,
+        "moves": 80,
+        "time_seconds": 58
+    },
+    {
+        "id": 449,
+        "score": 8,
+        "moves": 196,
+        "time_seconds": 90
+    },
+    {
+        "id": 450,
+        "score": 13,
+        "moves": 257,
+        "time_seconds": 92
+    },
+    {
+        "id": 451,
+        "score": 13,
+        "moves": 263,
+        "time_seconds": 116
+    },
+    {
+        "id": 452,
+        "score": 14,
+        "moves": 265,
+        "time_seconds": 82
+    },
+    {
+        "id": 453,
+        "score": 0,
+        "moves": 19,
+        "time_seconds": 12
+    },
+    {
+        "id": 454,
+        "score": 3,
+        "moves": 88,
+        "time_seconds": 60
+    },
+    {
+        "id": 455,
+        "score": 2,
+        "moves": 58,
+        "time_seconds": 22
+    },
+    {
+        "id": 456,
+        "score": 3,
+        "moves": 82,
+        "time_seconds": 42
+    },
+    {
+        "id": 457,
+        "score": 7,
+        "moves": 100,
+        "time_seconds": 67
+    },
+    {
+        "id": 458,
+        "score": 12,
+        "moves": 265,
+        "time_seconds": 162
+    },
+    {
+        "id": 459,
+        "score": 5,
+        "moves": 112,
+        "time_seconds": 47
+    },
+    {
+        "id": 460,
+        "score": 1,
+        "moves": 53,
+        "time_seconds": 26
+    },
+    {
+        "id": 461,
+        "score": 12,
+        "moves": 181,
+        "time_seconds": 112
+    },
+    {
+        "id": 462,
+        "score": 0,
+        "moves": 44,
+        "time_seconds": 29
+    },
+    {
+        "id": 463,
+        "score": 6,
+        "moves": 76,
+        "time_seconds": 57
+    },
+    {
+        "id": 464,
+        "score": 7,
+        "moves": 160,
+        "time_seconds": 117
+    },
+    {
+        "id": 465,
+        "score": 11,
+        "moves": 198,
+        "time_seconds": 155
+    },
+    {
+        "id": 466,
+        "score": 0,
+        "moves": 19,
+        "time_seconds": 11
+    },
+    {
+        "id": 467,
+        "score": 10,
+        "moves": 124,
+        "time_seconds": 56
+    },
+    {
+        "id": 468,
+        "score": 0,
+        "moves": 33,
+        "time_seconds": 9
+    },
+    {
+        "id": 469,
+        "score": 5,
+        "moves": 112,
+        "time_seconds": 65
+    },
+    {
+        "id": 470,
+        "score": 7,
+        "moves": 167,
+        "time_seconds": 80
+    },
+    {
+        "id": 471,
+        "score": 11,
+        "moves": 227,
+        "time_seconds": 159
+    },
+    {
+        "id": 472,
+        "score": 4,
+        "moves": 76,
+        "time_seconds": 56
+    },
+    {
+        "id": 473,
+        "score": 13,
+        "moves": 221,
+        "time_seconds": 78
+    },
+    {
+        "id": 474,
+        "score": 1,
+        "moves": 53,
+        "time_seconds": 33
+    },
+    {
+        "id": 475,
+        "score": 2,
+        "moves": 68,
+        "time_seconds": 26
+    },
+    {
+        "id": 476,
+        "score": 1,
+        "moves": 40,
+        "time_seconds": 13
+    },
+    {
+        "id": 477,
+        "score": 9,
+        "moves": 124,
+        "time_seconds": 93
+    },
+    {
+        "id": 478,
+        "score": 5,
+        "moves": 81,
+        "time_seconds": 27
+    },
+    {
+        "id": 479,
+        "score": 3,
+        "moves": 77,
+        "time_seconds": 27
+    },
+    {
+        "id": 480,
+        "score": 10,
+        "moves": 129,
+        "time_seconds": 96
+    },
+    {
+        "id": 481,
+        "score": 7,
+        "moves": 157,
+        "time_seconds": 70
+    },
+    {
+        "id": 482,
+        "score": 14,
+        "moves": 177,
+        "time_seconds": 86
+    },
+    {
+        "id": 483,
+        "score": 0,
+        "moves": 32,
+        "time_seconds": 12
+    },
+    {
+        "id": 484,
+        "score": 12,
+        "moves": 151,
+        "time_seconds": 117
+    },
+    {
+        "id": 485,
+        "score": 0,
+        "moves": 27,
+        "time_seconds": 16
+    },
+    {
+        "id": 486,
+        "score": 8,
+        "moves": 207,
+        "time_seconds": 71
+    },
+    {
+        "id": 487,
+        "score": 0,
+        "moves": 16,
+        "time_seconds": 5
+    },
+    {
+        "id": 488,
+        "score": 0,
+        "moves": 18,
+        "time_seconds": 9
+    },
+    {
+        "id": 489,
+        "score": 6,
+        "moves": 115,
+        "time_seconds": 69
+    },
+    {
+        "id": 490,
+        "score": 7,
+        "moves": 116,
+        "time_seconds": 47
+    },
+    {
+        "id": 491,
+        "score": 3,
+        "moves": 67,
+        "time_seconds": 32
+    },
+    {
+        "id": 492,
+        "score": 8,
+        "moves": 140,
+        "time_seconds": 83
+    },
+    {
+        "id": 493,
+        "score": 11,
+        "moves": 198,
+        "time_seconds": 153
+    },
+    {
+        "id": 494,
+        "score": 11,
+        "moves": 211,
+        "time_seconds": 108
+    },
+    {
+        "id": 495,
+        "score": 10,
+        "moves": 127,
+        "time_seconds": 60
+    },
+    {
+        "id": 496,
+        "score": 7,
+        "moves": 175,
+        "time_seconds": 83
+    },
+    {
+        "id": 497,
+        "score": 4,
+        "moves": 117,
+        "time_seconds": 46
+    },
+    {
+        "id": 498,
+        "score": 7,
+        "moves": 87,
+        "time_seconds": 37
+    },
+    {
+        "id": 499,
+        "score": 5,
+        "moves": 131,
+        "time_seconds": 62
+    },
+    {
+        "id": 500,
+        "score": 6,
+        "moves": 61,
+        "time_seconds": 19
+    },
+    {
+        "id": 501,
+        "score": 11,
+        "moves": 142,
+        "time_seconds": 82
+    },
+    {
+        "id": 502,
+        "score": 13,
+        "moves": 203,
+        "time_seconds": 110
+    },
+    {
+        "id": 503,
+        "score": 13,
+        "moves": 208,
+        "time_seconds": 76
+    },
+    {
+        "id": 504,
+        "score": 5,
+        "moves": 110,
+        "time_seconds": 76
+    },
+    {
+        "id": 505,
+        "score": 1,
+        "moves": 51,
+        "time_seconds": 22
+    },
+    {
+        "id": 506,
+        "score": 5,
+        "moves": 55,
+        "time_seconds": 35
+    },
+    {
+        "id": 507,
+        "score": 1,
+        "moves": 62,
+        "time_seconds": 22
+    },
+    {
+        "id": 508,
+        "score": 10,
+        "moves": 137,
+        "time_seconds": 83
+    },
+    {
+        "id": 509,
+        "score": 10,
+        "moves": 170,
+        "time_seconds": 63
+    },
+    {
+        "id": 510,
+        "score": 15,
+        "moves": 295,
+        "time_seconds": 114
+    },
+    {
+        "id": 511,
+        "score": 4,
+        "moves": 99,
+        "time_seconds": 29
+    },
+    {
+        "id": 512,
+        "score": 1,
+        "moves": 36,
+        "time_seconds": 14
+    },
+    {
+        "id": 513,
+        "score": 14,
+        "moves": 156,
+        "time_seconds": 96
+    },
+    {
+        "id": 514,
+        "score": 14,
+        "moves": 327,
+        "time_seconds": 218
+    },
+    {
+        "id": 515,
+        "score": 12,
+        "moves": 154,
+        "time_seconds": 78
+    },
+    {
+        "id": 516,
+        "score": 7,
+        "moves": 134,
+        "time_seconds": 52
+    },
+    {
+        "id": 517,
+        "score": 14,
+        "moves": 292,
+        "time_seconds": 178
+    },
+    {
+        "id": 518,
+        "score": 12,
+        "moves": 225,
+        "time_seconds": 130
+    },
+    {
+        "id": 519,
+        "score": 13,
+        "moves": 150,
+        "time_seconds": 68
+    },
+    {
+        "id": 520,
+        "score": 15,
+        "moves": 300,
+        "time_seconds": 102
+    },
+    {
+        "id": 521,
+        "score": 8,
+        "moves": 123,
+        "time_seconds": 54
+    },
+    {
+        "id": 522,
+        "score": 13,
+        "moves": 172,
+        "time_seconds": 68
+    },
+    {
+        "id": 523,
+        "score": 8,
+        "moves": 203,
+        "time_seconds": 100
+    },
+    {
+        "id": 524,
+        "score": 4,
+        "moves": 80,
+        "time_seconds": 47
+    },
+    {
+        "id": 525,
+        "score": 15,
+        "moves": 175,
+        "time_seconds": 73
+    },
+    {
+        "id": 526,
+        "score": 9,
+        "moves": 158,
+        "time_seconds": 92
+    },
+    {
+        "id": 527,
+        "score": 13,
+        "moves": 280,
+        "time_seconds": 185
+    },
+    {
+        "id": 528,
+        "score": 0,
+        "moves": 16,
+        "time_seconds": 12
+    },
+    {
+        "id": 529,
+        "score": 1,
+        "moves": 34,
+        "time_seconds": 20
+    },
+    {
+        "id": 530,
+        "score": 10,
+        "moves": 163,
+        "time_seconds": 94
+    },
+    {
+        "id": 531,
+        "score": 5,
+        "moves": 96,
+        "time_seconds": 49
+    },
+    {
+        "id": 532,
+        "score": 5,
+        "moves": 112,
+        "time_seconds": 36
+    },
+    {
+        "id": 533,
+        "score": 6,
+        "moves": 140,
+        "time_seconds": 83
+    },
+    {
+        "id": 534,
+        "score": 5,
+        "moves": 78,
+        "time_seconds": 32
+    },
+    {
+        "id": 535,
+        "score": 7,
+        "moves": 121,
+        "time_seconds": 70
+    },
+    {
+        "id": 536,
+        "score": 0,
+        "moves": 32,
+        "time_seconds": 22
+    },
+    {
+        "id": 537,
+        "score": 5,
+        "moves": 87,
+        "time_seconds": 54
+    },
+    {
+        "id": 538,
+        "score": 13,
+        "moves": 286,
+        "time_seconds": 217
+    },
+    {
+        "id": 539,
+        "score": 13,
+        "moves": 248,
+        "time_seconds": 183
+    },
+    {
+        "id": 540,
+        "score": 6,
+        "moves": 107,
+        "time_seconds": 37
+    },
+    {
+        "id": 541,
+        "score": 14,
+        "moves": 249,
+        "time_seconds": 157
+    },
+    {
+        "id": 542,
+        "score": 4,
+        "moves": 76,
+        "time_seconds": 55
+    },
+    {
+        "id": 543,
+        "score": 7,
+        "moves": 93,
+        "time_seconds": 62
+    },
+    {
+        "id": 544,
+        "score": 5,
+        "moves": 118,
+        "time_seconds": 46
+    },
+    {
+        "id": 545,
+        "score": 8,
+        "moves": 172,
+        "time_seconds": 58
+    },
+    {
+        "id": 546,
+        "score": 8,
+        "moves": 128,
+        "time_seconds": 98
+    },
+    {
+        "id": 547,
+        "score": 10,
+        "moves": 113,
+        "time_seconds": 45
+    },
+    {
+        "id": 548,
+        "score": 1,
+        "moves": 69,
+        "time_seconds": 38
+    },
+    {
+        "id": 549,
+        "score": 14,
+        "moves": 268,
+        "time_seconds": 107
+    },
+    {
+        "id": 550,
+        "score": 12,
+        "moves": 140,
+        "time_seconds": 45
+    },
+    {
+        "id": 551,
+        "score": 5,
+        "moves": 74,
+        "time_seconds": 28
+    },
+    {
+        "id": 552,
+        "score": 2,
+        "moves": 65,
+        "time_seconds": 43
+    },
+    {
+        "id": 553,
+        "score": 6,
+        "moves": 132,
+        "time_seconds": 67
+    },
+    {
+        "id": 554,
+        "score": 3,
+        "moves": 73,
+        "time_seconds": 24
+    },
+    {
+        "id": 555,
+        "score": 4,
+        "moves": 67,
+        "time_seconds": 34
+    },
+    {
+        "id": 556,
+        "score": 10,
+        "moves": 99,
+        "time_seconds": 34
+    },
+    {
+        "id": 557,
+        "score": 11,
+        "moves": 136,
+        "time_seconds": 45
+    },
+    {
+        "id": 558,
+        "score": 6,
+        "moves": 115,
+        "time_seconds": 38
+    },
+    {
+        "id": 559,
+        "score": 9,
+        "moves": 170,
+        "time_seconds": 106
+    },
+    {
+        "id": 560,
+        "score": 15,
+        "moves": 210,
+        "time_seconds": 120
+    },
+    {
+        "id": 561,
+        "score": 7,
+        "moves": 158,
+        "time_seconds": 108
+    },
+    {
+        "id": 562,
+        "score": 3,
+        "moves": 46,
+        "time_seconds": 22
+    },
+    {
+        "id": 563,
+        "score": 11,
+        "moves": 237,
+        "time_seconds": 99
+    },
+    {
+        "id": 564,
+        "score": 13,
+        "moves": 251,
+        "time_seconds": 136
+    },
+    {
+        "id": 565,
+        "score": 9,
+        "moves": 180,
+        "time_seconds": 98
+    },
+    {
+        "id": 566,
+        "score": 12,
+        "moves": 155,
+        "time_seconds": 80
+    },
+    {
+        "id": 567,
+        "score": 10,
+        "moves": 121,
+        "time_seconds": 54
+    },
+    {
+        "id": 568,
+        "score": 6,
+        "moves": 96,
+        "time_seconds": 50
+    },
+    {
+        "id": 569,
+        "score": 8,
+        "moves": 117,
+        "time_seconds": 68
+    },
+    {
+        "id": 570,
+        "score": 10,
+        "moves": 155,
+        "time_seconds": 107
+    },
+    {
+        "id": 571,
+        "score": 1,
+        "moves": 43,
+        "time_seconds": 30
+    },
+    {
+        "id": 572,
+        "score": 16,
+        "moves": 157,
+        "time_seconds": 50
+    },
+    {
+        "id": 573,
+        "score": 14,
+        "moves": 161,
+        "time_seconds": 93
+    },
+    {
+        "id": 574,
+        "score": 2,
+        "moves": 55,
+        "time_seconds": 29
+    },
+    {
+        "id": 575,
+        "score": 6,
+        "moves": 121,
+        "time_seconds": 71
+    },
+    {
+        "id": 576,
+        "score": 10,
+        "moves": 152,
+        "time_seconds": 74
+    },
+    {
+        "id": 577,
+        "score": 10,
+        "moves": 121,
+        "time_seconds": 58
+    },
+    {
+        "id": 578,
+        "score": 2,
+        "moves": 45,
+        "time_seconds": 20
+    },
+    {
+        "id": 579,
+        "score": 10,
+        "moves": 189,
+        "time_seconds": 81
+    },
+    {
+        "id": 580,
+        "score": 16,
+        "moves": 220,
+        "time_seconds": 119
+    },
+    {
+        "id": 581,
+        "score": 9,
+        "moves": 129,
+        "time_seconds": 43
+    },
+    {
+        "id": 582,
+        "score": 1,
+        "moves": 69,
+        "time_seconds": 35
+    },
+    {
+        "id": 583,
+        "score": 3,
+        "moves": 81,
+        "time_seconds": 59
+    },
+    {
+        "id": 584,
+        "score": 1,
+        "moves": 30,
+        "time_seconds": 16
+    },
+    {
+        "id": 585,
+        "score": 14,
+        "moves": 290,
+        "time_seconds": 105
+    },
+    {
+        "id": 586,
+        "score": 13,
+        "moves": 207,
+        "time_seconds": 146
+    },
+    {
+        "id": 587,
+        "score": 7,
+        "moves": 144,
+        "time_seconds": 64
+    },
+    {
+        "id": 588,
+        "score": 13,
+        "moves": 244,
+        "time_seconds": 135
+    },
+    {
+        "id": 589,
+        "score": 0,
+        "moves": 10,
+        "time_seconds": 3
+    },
+    {
+        "id": 590,
+        "score": 4,
+        "moves": 58,
+        "time_seconds": 34
+    },
+    {
+        "id": 591,
+        "score": 4,
+        "moves": 61,
+        "time_seconds": 20
+    },
+    {
+        "id": 592,
+        "score": 5,
+        "moves": 135,
+        "time_seconds": 68
+    },
+    {
+        "id": 593,
+        "score": 8,
+        "moves": 182,
+        "time_seconds": 90
+    },
+    {
+        "id": 594,
+        "score": 14,
+        "moves": 169,
+        "time_seconds": 130
+    },
+    {
+        "id": 595,
+        "score": 14,
+        "moves": 207,
+        "time_seconds": 82
+    },
+    {
+        "id": 596,
+        "score": 4,
+        "moves": 100,
+        "time_seconds": 49
+    },
+    {
+        "id": 597,
+        "score": 16,
+        "moves": 274,
+        "time_seconds": 185
+    },
+    {
+        "id": 598,
+        "score": 1,
+        "moves": 40,
+        "time_seconds": 19
+    },
+    {
+        "id": 599,
+        "score": 9,
+        "moves": 152,
+        "time_seconds": 93
+    },
+    {
+        "id": 600,
+        "score": 1,
+        "moves": 48,
+        "time_seconds": 36
+    },
+    {
+        "id": 601,
+        "score": 1,
+        "moves": 70,
+        "time_seconds": 49
+    },
+    {
+        "id": 602,
+        "score": 6,
+        "moves": 123,
+        "time_seconds": 89
+    },
+    {
+        "id": 603,
+        "score": 7,
+        "moves": 115,
+        "time_seconds": 44
+    },
+    {
+        "id": 604,
+        "score": 12,
+        "moves": 157,
+        "time_seconds": 92
+    },
+    {
+        "id": 605,
+        "score": 5,
+        "moves": 84,
+        "time_seconds": 66
+    },
+    {
+        "id": 606,
+        "score": 9,
+        "moves": 227,
+        "time_seconds": 103
+    },
+    {
+        "id": 607,
+        "score": 10,
+        "moves": 207,
+        "time_seconds": 92
+    },
+    {
+        "id": 608,
+        "score": 9,
+        "moves": 102,
+        "time_seconds": 37
+    },
+    {
+        "id": 609,
+        "score": 15,
+        "moves": 234,
+        "time_seconds": 72
+    },
+    {
+        "id": 610,
+        "score": 3,
+        "moves": 65,
+        "time_seconds": 40
+    },
+    {
+        "id": 611,
+        "score": 7,
+        "moves": 154,
+        "time_seconds": 57
+    },
+    {
+        "id": 612,
+        "score": 14,
+        "moves": 296,
+        "time_seconds": 236
+    },
+    {
+        "id": 613,
+        "score": 11,
+        "moves": 235,
+        "time_seconds": 184
+    },
+    {
+        "id": 614,
+        "score": 10,
+        "moves": 204,
+        "time_seconds": 147
+    },
+    {
+        "id": 615,
+        "score": 0,
+        "moves": 11,
+        "time_seconds": 8
+    },
+    {
+        "id": 616,
+        "score": 7,
+        "moves": 164,
+        "time_seconds": 112
+    },
+    {
+        "id": 617,
+        "score": 2,
+        "moves": 40,
+        "time_seconds": 30
+    },
+    {
+        "id": 618,
+        "score": 0,
+        "moves": 45,
+        "time_seconds": 34
+    },
+    {
+        "id": 619,
+        "score": 9,
+        "moves": 109,
+        "time_seconds": 81
+    },
+    {
+        "id": 620,
+        "score": 11,
+        "moves": 110,
+        "time_seconds": 59
+    },
+    {
+        "id": 621,
+        "score": 13,
+        "moves": 298,
+        "time_seconds": 195
+    },
+    {
+        "id": 622,
+        "score": 5,
+        "moves": 96,
+        "time_seconds": 58
+    },
+    {
+        "id": 623,
+        "score": 10,
+        "moves": 210,
+        "time_seconds": 157
+    },
+    {
+        "id": 624,
+        "score": 14,
+        "moves": 259,
+        "time_seconds": 153
+    },
+    {
+        "id": 625,
+        "score": 13,
+        "moves": 187,
+        "time_seconds": 77
+    },
+    {
+        "id": 626,
+        "score": 2,
+        "moves": 56,
+        "time_seconds": 43
+    },
+    {
+        "id": 627,
+        "score": 9,
+        "moves": 138,
+        "time_seconds": 85
+    },
+    {
+        "id": 628,
+        "score": 5,
+        "moves": 98,
+        "time_seconds": 32
+    },
+    {
+        "id": 629,
+        "score": 4,
+        "moves": 81,
+        "time_seconds": 57
+    },
+    {
+        "id": 630,
+        "score": 13,
+        "moves": 181,
+        "time_seconds": 72
+    },
+    {
+        "id": 631,
+        "score": 14,
+        "moves": 192,
+        "time_seconds": 116
+    },
+    {
+        "id": 632,
+        "score": 4,
+        "moves": 118,
+        "time_seconds": 41
+    },
+    {
+        "id": 633,
+        "score": 9,
+        "moves": 96,
+        "time_seconds": 61
+    },
+    {
+        "id": 634,
+        "score": 1,
+        "moves": 46,
+        "time_seconds": 16
+    },
+    {
+        "id": 635,
+        "score": 0,
+        "moves": 18,
+        "time_seconds": 5
+    },
+    {
+        "id": 636,
+        "score": 10,
+        "moves": 165,
+        "time_seconds": 52
+    },
+    {
+        "id": 637,
+        "score": 17,
+        "moves": 265,
+        "time_seconds": 101
+    },
+    {
+        "id": 638,
+        "score": 12,
+        "moves": 219,
+        "time_seconds": 77
+    },
+    {
+        "id": 639,
+        "score": 8,
+        "moves": 149,
+        "time_seconds": 60
+    },
+    {
+        "id": 640,
+        "score": 15,
+        "moves": 271,
+        "time_seconds": 145
+    },
+    {
+        "id": 641,
+        "score": 12,
+        "moves": 219,
+        "time_seconds": 113
+    },
+    {
+        "id": 642,
+        "score": 0,
+        "moves": 50,
+        "time_seconds": 24
+    },
+    {
+        "id": 643,
+        "score": 13,
+        "moves": 290,
+        "time_seconds": 133
+    },
+    {
+        "id": 644,
+        "score": 1,
+        "moves": 31,
+        "time_seconds": 21
+    },
+    {
+        "id": 645,
+        "score": 9,
+        "moves": 122,
+        "time_seconds": 42
+    },
+    {
+        "id": 646,
+        "score": 14,
+        "moves": 223,
+        "time_seconds": 94
+    },
+    {
+        "id": 647,
+        "score": 13,
+        "moves": 258,
+        "time_seconds": 104
+    },
+    {
+        "id": 648,
+        "score": 4,
+        "moves": 98,
+        "time_seconds": 50
+    },
+    {
+        "id": 649,
+        "score": 2,
+        "moves": 51,
+        "time_seconds": 36
+    },
+    {
+        "id": 650,
+        "score": 11,
+        "moves": 156,
+        "time_seconds": 50
+    },
+    {
+        "id": 651,
+        "score": 12,
+        "moves": 117,
+        "time_seconds": 78
+    },
+    {
+        "id": 652,
+        "score": 2,
+        "moves": 57,
+        "time_seconds": 28
+    },
+    {
+        "id": 653,
+        "score": 2,
+        "moves": 54,
+        "time_seconds": 34
+    },
+    {
+        "id": 654,
+        "score": 17,
+        "moves": 295,
+        "time_seconds": 125
+    },
+    {
+        "id": 655,
+        "score": 18,
+        "moves": 341,
+        "time_seconds": 255
+    },
+    {
+        "id": 656,
+        "score": 4,
+        "moves": 104,
+        "time_seconds": 79
+    },
+    {
+        "id": 657,
+        "score": 0,
+        "moves": 48,
+        "time_seconds": 33
+    },
+    {
+        "id": 658,
+        "score": 11,
+        "moves": 233,
+        "time_seconds": 118
+    },
+    {
+        "id": 659,
+        "score": 12,
+        "moves": 144,
+        "time_seconds": 77
+    },
+    {
+        "id": 660,
+        "score": 6,
+        "moves": 149,
+        "time_seconds": 45
+    },
+    {
+        "id": 661,
+        "score": 11,
+        "moves": 231,
+        "time_seconds": 133
+    },
+    {
+        "id": 662,
+        "score": 5,
+        "moves": 132,
+        "time_seconds": 64
+    },
+    {
+        "id": 663,
+        "score": 18,
+        "moves": 213,
+        "time_seconds": 96
+    },
+    {
+        "id": 664,
+        "score": 18,
+        "moves": 313,
+        "time_seconds": 141
+    },
+    {
+        "id": 665,
+        "score": 9,
+        "moves": 138,
+        "time_seconds": 60
+    },
+    {
+        "id": 666,
+        "score": 3,
+        "moves": 102,
+        "time_seconds": 33
+    },
+    {
+        "id": 667,
+        "score": 9,
+        "moves": 114,
+        "time_seconds": 71
+    },
+    {
+        "id": 668,
+        "score": 12,
+        "moves": 144,
+        "time_seconds": 65
+    },
+    {
+        "id": 669,
+        "score": 13,
+        "moves": 247,
+        "time_seconds": 135
+    },
+    {
+        "id": 670,
+        "score": 8,
+        "moves": 206,
+        "time_seconds": 107
+    },
+    {
+        "id": 671,
+        "score": 8,
+        "moves": 155,
+        "time_seconds": 60
+    },
+    {
+        "id": 672,
+        "score": 7,
+        "moves": 104,
+        "time_seconds": 55
+    },
+    {
+        "id": 673,
+        "score": 8,
+        "moves": 176,
+        "time_seconds": 122
+    },
+    {
+        "id": 674,
+        "score": 5,
+        "moves": 67,
+        "time_seconds": 43
+    },
+    {
+        "id": 675,
+        "score": 16,
+        "moves": 205,
+        "time_seconds": 144
+    },
+    {
+        "id": 676,
+        "score": 9,
+        "moves": 121,
+        "time_seconds": 62
+    },
+    {
+        "id": 677,
+        "score": 15,
+        "moves": 168,
+        "time_seconds": 127
+    },
+    {
+        "id": 678,
+        "score": 0,
+        "moves": 28,
+        "time_seconds": 16
+    },
+    {
+        "id": 679,
+        "score": 9,
+        "moves": 179,
+        "time_seconds": 76
+    },
+    {
+        "id": 680,
+        "score": 6,
+        "moves": 83,
+        "time_seconds": 25
+    },
+    {
+        "id": 681,
+        "score": 5,
+        "moves": 129,
+        "time_seconds": 67
+    },
+    {
+        "id": 682,
+        "score": 12,
+        "moves": 283,
+        "time_seconds": 110
+    },
+    {
+        "id": 683,
+        "score": 1,
+        "moves": 39,
+        "time_seconds": 25
+    },
+    {
+        "id": 684,
+        "score": 17,
+        "moves": 231,
+        "time_seconds": 136
+    },
+    {
+        "id": 685,
+        "score": 12,
+        "moves": 228,
+        "time_seconds": 84
+    },
+    {
+        "id": 686,
+        "score": 3,
+        "moves": 81,
+        "time_seconds": 59
+    },
+    {
+        "id": 687,
+        "score": 5,
+        "moves": 75,
+        "time_seconds": 54
+    },
+    {
+        "id": 688,
+        "score": 17,
+        "moves": 348,
+        "time_seconds": 233
+    },
+    {
+        "id": 689,
+        "score": 0,
+        "moves": 13,
+        "time_seconds": 9
+    },
+    {
+        "id": 690,
+        "score": 14,
+        "moves": 304,
+        "time_seconds": 206
+    },
+    {
+        "id": 691,
+        "score": 1,
+        "moves": 35,
+        "time_seconds": 10
+    },
+    {
+        "id": 692,
+        "score": 13,
+        "moves": 231,
+        "time_seconds": 107
+    },
+    {
+        "id": 693,
+        "score": 7,
+        "moves": 130,
+        "time_seconds": 75
+    },
+    {
+        "id": 694,
+        "score": 14,
+        "moves": 231,
+        "time_seconds": 105
+    },
+    {
+        "id": 695,
+        "score": 11,
+        "moves": 247,
+        "time_seconds": 185
+    },
+    {
+        "id": 696,
+        "score": 11,
+        "moves": 98,
+        "time_seconds": 29
+    },
+    {
+        "id": 697,
+        "score": 5,
+        "moves": 122,
+        "time_seconds": 45
+    },
+    {
+        "id": 698,
+        "score": 7,
+        "moves": 91,
+        "time_seconds": 30
+    },
+    {
+        "id": 699,
+        "score": 18,
+        "moves": 169,
+        "time_seconds": 124
+    },
+    {
+        "id": 700,
+        "score": 4,
+        "moves": 119,
+        "time_seconds": 82
+    },
+    {
+        "id": 701,
+        "score": 2,
+        "moves": 48,
+        "time_seconds": 33
+    },
+    {
+        "id": 702,
+        "score": 17,
+        "moves": 198,
+        "time_seconds": 133
+    },
+    {
+        "id": 703,
+        "score": 18,
+        "moves": 358,
+        "time_seconds": 178
+    },
+    {
+        "id": 704,
+        "score": 13,
+        "moves": 211,
+        "time_seconds": 114
+    },
+    {
+        "id": 705,
+        "score": 8,
+        "moves": 186,
+        "time_seconds": 124
+    },
+    {
+        "id": 706,
+        "score": 11,
+        "moves": 222,
+        "time_seconds": 68
+    },
+    {
+        "id": 707,
+        "score": 18,
+        "moves": 234,
+        "time_seconds": 94
+    },
+    {
+        "id": 708,
+        "score": 1,
+        "moves": 60,
+        "time_seconds": 45
+    },
+    {
+        "id": 709,
+        "score": 17,
+        "moves": 301,
+        "time_seconds": 124
+    },
+    {
+        "id": 710,
+        "score": 0,
+        "moves": 13,
+        "time_seconds": 7
+    },
+    {
+        "id": 711,
+        "score": 0,
+        "moves": 47,
+        "time_seconds": 32
+    },
+    {
+        "id": 712,
+        "score": 9,
+        "moves": 156,
+        "time_seconds": 82
+    },
+    {
+        "id": 713,
+        "score": 18,
+        "moves": 390,
+        "time_seconds": 304
+    },
+    {
+        "id": 714,
+        "score": 9,
+        "moves": 191,
+        "time_seconds": 75
+    },
+    {
+        "id": 715,
+        "score": 12,
+        "moves": 176,
+        "time_seconds": 79
+    },
+    {
+        "id": 716,
+        "score": 8,
+        "moves": 172,
+        "time_seconds": 120
+    },
+    {
+        "id": 717,
+        "score": 4,
+        "moves": 67,
+        "time_seconds": 51
+    },
+    {
+        "id": 718,
+        "score": 15,
+        "moves": 292,
+        "time_seconds": 105
+    },
+    {
+        "id": 719,
+        "score": 7,
+        "moves": 142,
+        "time_seconds": 62
+    },
+    {
+        "id": 720,
+        "score": 9,
+        "moves": 124,
+        "time_seconds": 95
+    },
+    {
+        "id": 721,
+        "score": 7,
+        "moves": 136,
+        "time_seconds": 58
+    },
+    {
+        "id": 722,
+        "score": 0,
+        "moves": 11,
+        "time_seconds": 8
+    },
+    {
+        "id": 723,
+        "score": 18,
+        "moves": 249,
+        "time_seconds": 96
+    },
+    {
+        "id": 724,
+        "score": 15,
+        "moves": 247,
+        "time_seconds": 193
+    },
+    {
+        "id": 725,
+        "score": 0,
+        "moves": 44,
+        "time_seconds": 18
+    },
+    {
+        "id": 726,
+        "score": 7,
+        "moves": 99,
+        "time_seconds": 70
+    },
+    {
+        "id": 727,
+        "score": 5,
+        "moves": 103,
+        "time_seconds": 48
+    },
+    {
+        "id": 728,
+        "score": 7,
+        "moves": 156,
+        "time_seconds": 67
+    },
+    {
+        "id": 729,
+        "score": 12,
+        "moves": 146,
+        "time_seconds": 62
+    },
+    {
+        "id": 730,
+        "score": 17,
+        "moves": 321,
+        "time_seconds": 176
+    },
+    {
+        "id": 731,
+        "score": 16,
+        "moves": 243,
+        "time_seconds": 93
+    },
+    {
+        "id": 732,
+        "score": 13,
+        "moves": 141,
+        "time_seconds": 45
+    },
+    {
+        "id": 733,
+        "score": 16,
+        "moves": 361,
+        "time_seconds": 202
+    },
+    {
+        "id": 734,
+        "score": 1,
+        "moves": 59,
+        "time_seconds": 26
+    },
+    {
+        "id": 735,
+        "score": 0,
+        "moves": 19,
+        "time_seconds": 13
+    },
+    {
+        "id": 736,
+        "score": 4,
+        "moves": 79,
+        "time_seconds": 34
+    },
+    {
+        "id": 737,
+        "score": 18,
+        "moves": 247,
+        "time_seconds": 156
+    },
+    {
+        "id": 738,
+        "score": 0,
+        "moves": 42,
+        "time_seconds": 24
+    },
+    {
+        "id": 739,
+        "score": 10,
+        "moves": 167,
+        "time_seconds": 56
+    },
+    {
+        "id": 740,
+        "score": 11,
+        "moves": 190,
+        "time_seconds": 75
+    },
+    {
+        "id": 741,
+        "score": 17,
+        "moves": 215,
+        "time_seconds": 151
+    },
+    {
+        "id": 742,
+        "score": 12,
+        "moves": 147,
+        "time_seconds": 72
+    },
+    {
+        "id": 743,
+        "score": 14,
+        "moves": 280,
+        "time_seconds": 195
+    },
+    {
+        "id": 744,
+        "score": 17,
+        "moves": 170,
+        "time_seconds": 104
+    },
+    {
+        "id": 745,
+        "score": 13,
+        "moves": 269,
+        "time_seconds": 126
+    },
+    {
+        "id": 746,
+        "score": 8,
+        "moves": 159,
+        "time_seconds": 100
+    },
+    {
+        "id": 747,
+        "score": 5,
+        "moves": 142,
+        "time_seconds": 81
+    },
+    {
+        "id": 748,
+        "score": 7,
+        "moves": 120,
+        "time_seconds": 56
+    },
+    {
+        "id": 749,
+        "score": 3,
+        "moves": 102,
+        "time_seconds": 52
+    },
+    {
+        "id": 750,
+        "score": 1,
+        "moves": 66,
+        "time_seconds": 24
+    },
+    {
+        "id": 751,
+        "score": 12,
+        "moves": 283,
+        "time_seconds": 178
+    },
+    {
+        "id": 752,
+        "score": 16,
+        "moves": 282,
+        "time_seconds": 127
+    },
+    {
+        "id": 753,
+        "score": 12,
+        "moves": 203,
+        "time_seconds": 119
+    },
+    {
+        "id": 754,
+        "score": 15,
+        "moves": 319,
+        "time_seconds": 95
+    },
+    {
+        "id": 755,
+        "score": 18,
+        "moves": 305,
+        "time_seconds": 139
+    },
+    {
+        "id": 756,
+        "score": 9,
+        "moves": 104,
+        "time_seconds": 44
+    },
+    {
+        "id": 757,
+        "score": 20,
+        "moves": 267,
+        "time_seconds": 122
+    },
+    {
+        "id": 758,
+        "score": 0,
+        "moves": 29,
+        "time_seconds": 17
+    },
+    {
+        "id": 759,
+        "score": 15,
+        "moves": 310,
+        "time_seconds": 185
+    },
+    {
+        "id": 760,
+        "score": 1,
+        "moves": 59,
+        "time_seconds": 37
+    },
+    {
+        "id": 761,
+        "score": 10,
+        "moves": 111,
+        "time_seconds": 50
+    },
+    {
+        "id": 762,
+        "score": 13,
+        "moves": 141,
+        "time_seconds": 55
+    },
+    {
+        "id": 763,
+        "score": 14,
+        "moves": 232,
+        "time_seconds": 90
+    },
+    {
+        "id": 764,
+        "score": 15,
+        "moves": 155,
+        "time_seconds": 49
+    },
+    {
+        "id": 765,
+        "score": 13,
+        "moves": 181,
+        "time_seconds": 57
+    },
+    {
+        "id": 766,
+        "score": 14,
+        "moves": 151,
+        "time_seconds": 63
+    },
+    {
+        "id": 767,
+        "score": 12,
+        "moves": 237,
+        "time_seconds": 104
+    },
+    {
+        "id": 768,
+        "score": 2,
+        "moves": 56,
+        "time_seconds": 20
+    },
+    {
+        "id": 769,
+        "score": 20,
+        "moves": 288,
+        "time_seconds": 122
+    },
+    {
+        "id": 770,
+        "score": 7,
+        "moves": 136,
+        "time_seconds": 42
+    },
+    {
+        "id": 771,
+        "score": 9,
+        "moves": 172,
+        "time_seconds": 57
+    },
+    {
+        "id": 772,
+        "score": 15,
+        "moves": 184,
+        "time_seconds": 62
+    },
+    {
+        "id": 773,
+        "score": 15,
+        "moves": 245,
+        "time_seconds": 88
+    },
+    {
+        "id": 774,
+        "score": 12,
+        "moves": 138,
+        "time_seconds": 49
+    },
+    {
+        "id": 775,
+        "score": 18,
+        "moves": 253,
+        "time_seconds": 187
+    },
+    {
+        "id": 776,
+        "score": 9,
+        "moves": 108,
+        "time_seconds": 36
+    },
+    {
+        "id": 777,
+        "score": 11,
+        "moves": 168,
+        "time_seconds": 108
+    },
+    {
+        "id": 778,
+        "score": 6,
+        "moves": 77,
+        "time_seconds": 28
+    },
+    {
+        "id": 779,
+        "score": 6,
+        "moves": 160,
+        "time_seconds": 83
+    },
+    {
+        "id": 780,
+        "score": 2,
+        "moves": 81,
+        "time_seconds": 47
+    },
+    {
+        "id": 781,
+        "score": 3,
+        "moves": 100,
+        "time_seconds": 41
+    },
+    {
+        "id": 782,
+        "score": 19,
+        "moves": 350,
+        "time_seconds": 211
+    },
+    {
+        "id": 783,
+        "score": 6,
+        "moves": 93,
+        "time_seconds": 64
+    },
+    {
+        "id": 784,
+        "score": 1,
+        "moves": 49,
+        "time_seconds": 24
+    },
+    {
+        "id": 785,
+        "score": 4,
+        "moves": 122,
+        "time_seconds": 84
+    },
+    {
+        "id": 786,
+        "score": 0,
+        "moves": 38,
+        "time_seconds": 16
+    },
+    {
+        "id": 787,
+        "score": 11,
+        "moves": 213,
+        "time_seconds": 74
+    },
+    {
+        "id": 788,
+        "score": 7,
+        "moves": 128,
+        "time_seconds": 69
+    },
+    {
+        "id": 789,
+        "score": 18,
+        "moves": 302,
+        "time_seconds": 170
+    },
+    {
+        "id": 790,
+        "score": 18,
+        "moves": 193,
+        "time_seconds": 71
+    },
+    {
+        "id": 791,
+        "score": 2,
+        "moves": 82,
+        "time_seconds": 59
+    },
+    {
+        "id": 792,
+        "score": 9,
+        "moves": 138,
+        "time_seconds": 50
+    },
+    {
+        "id": 793,
+        "score": 1,
+        "moves": 32,
+        "time_seconds": 19
+    },
+    {
+        "id": 794,
+        "score": 19,
+        "moves": 246,
+        "time_seconds": 175
+    },
+    {
+        "id": 795,
+        "score": 0,
+        "moves": 34,
+        "time_seconds": 14
+    },
+    {
+        "id": 796,
+        "score": 10,
+        "moves": 183,
+        "time_seconds": 63
+    },
+    {
+        "id": 797,
+        "score": 10,
+        "moves": 219,
+        "time_seconds": 170
+    },
+    {
+        "id": 798,
+        "score": 11,
+        "moves": 156,
+        "time_seconds": 49
+    },
+    {
+        "id": 799,
+        "score": 7,
+        "moves": 96,
+        "time_seconds": 30
+    },
+    {
+        "id": 800,
+        "score": 5,
+        "moves": 108,
+        "time_seconds": 45
+    },
+    {
+        "id": 801,
+        "score": 5,
+        "moves": 59,
+        "time_seconds": 34
+    },
+    {
+        "id": 802,
+        "score": 8,
+        "moves": 171,
+        "time_seconds": 107
+    },
+    {
+        "id": 803,
+        "score": 7,
+        "moves": 123,
+        "time_seconds": 60
+    },
+    {
+        "id": 804,
+        "score": 7,
+        "moves": 96,
+        "time_seconds": 35
+    },
+    {
+        "id": 805,
+        "score": 4,
+        "moves": 58,
+        "time_seconds": 43
+    },
+    {
+        "id": 806,
+        "score": 13,
+        "moves": 280,
+        "time_seconds": 93
+    },
+    {
+        "id": 807,
+        "score": 2,
+        "moves": 73,
+        "time_seconds": 29
+    },
+    {
+        "id": 808,
+        "score": 4,
+        "moves": 54,
+        "time_seconds": 23
+    },
+    {
+        "id": 809,
+        "score": 5,
+        "moves": 106,
+        "time_seconds": 83
+    },
+    {
+        "id": 810,
+        "score": 0,
+        "moves": 41,
+        "time_seconds": 26
+    },
+    {
+        "id": 811,
+        "score": 5,
+        "moves": 134,
+        "time_seconds": 79
+    },
+    {
+        "id": 812,
+        "score": 4,
+        "moves": 99,
+        "time_seconds": 36
+    },
+    {
+        "id": 813,
+        "score": 14,
+        "moves": 311,
+        "time_seconds": 112
+    },
+    {
+        "id": 814,
+        "score": 0,
+        "moves": 41,
+        "time_seconds": 19
+    },
+    {
+        "id": 815,
+        "score": 13,
+        "moves": 182,
+        "time_seconds": 77
+    },
+    {
+        "id": 816,
+        "score": 10,
+        "moves": 127,
+        "time_seconds": 72
+    },
+    {
+        "id": 817,
+        "score": 5,
+        "moves": 90,
+        "time_seconds": 33
+    },
+    {
+        "id": 818,
+        "score": 20,
+        "moves": 372,
+        "time_seconds": 158
+    },
+    {
+        "id": 819,
+        "score": 1,
+        "moves": 57,
+        "time_seconds": 22
+    },
+    {
+        "id": 820,
+        "score": 16,
+        "moves": 192,
+        "time_seconds": 138
+    },
+    {
+        "id": 821,
+        "score": 11,
+        "moves": 189,
+        "time_seconds": 63
+    },
+    {
+        "id": 822,
+        "score": 19,
+        "moves": 292,
+        "time_seconds": 168
+    },
+    {
+        "id": 823,
+        "score": 6,
+        "moves": 127,
+        "time_seconds": 47
+    },
+    {
+        "id": 824,
+        "score": 12,
+        "moves": 156,
+        "time_seconds": 62
+    },
+    {
+        "id": 825,
+        "score": 2,
+        "moves": 59,
+        "time_seconds": 18
+    },
+    {
+        "id": 826,
+        "score": 7,
+        "moves": 130,
+        "time_seconds": 67
+    },
+    {
+        "id": 827,
+        "score": 16,
+        "moves": 202,
+        "time_seconds": 120
+    },
+    {
+        "id": 828,
+        "score": 18,
+        "moves": 335,
+        "time_seconds": 197
+    },
+    {
+        "id": 829,
+        "score": 9,
+        "moves": 166,
+        "time_seconds": 93
+    },
+    {
+        "id": 830,
+        "score": 13,
+        "moves": 279,
+        "time_seconds": 105
+    },
+    {
+        "id": 831,
+        "score": 8,
+        "moves": 177,
+        "time_seconds": 69
+    },
+    {
+        "id": 832,
+        "score": 1,
+        "moves": 38,
+        "time_seconds": 19
+    },
+    {
+        "id": 833,
+        "score": 4,
+        "moves": 84,
+        "time_seconds": 30
+    },
+    {
+        "id": 834,
+        "score": 9,
+        "moves": 129,
+        "time_seconds": 94
+    },
+    {
+        "id": 835,
+        "score": 12,
+        "moves": 270,
+        "time_seconds": 153
+    },
+    {
+        "id": 836,
+        "score": 8,
+        "moves": 191,
+        "time_seconds": 67
+    },
+    {
+        "id": 837,
+        "score": 19,
+        "moves": 339,
+        "time_seconds": 128
+    },
+    {
+        "id": 838,
+        "score": 19,
+        "moves": 374,
+        "time_seconds": 233
+    },
+    {
+        "id": 839,
+        "score": 21,
+        "moves": 425,
+        "time_seconds": 261
+    },
+    {
+        "id": 840,
+        "score": 17,
+        "moves": 172,
+        "time_seconds": 60
+    },
+    {
+        "id": 841,
+        "score": 21,
+        "moves": 203,
+        "time_seconds": 150
+    },
+    {
+        "id": 842,
+        "score": 3,
+        "moves": 61,
+        "time_seconds": 42
+    },
+    {
+        "id": 843,
+        "score": 16,
+        "moves": 173,
+        "time_seconds": 115
+    },
+    {
+        "id": 844,
+        "score": 3,
+        "moves": 72,
+        "time_seconds": 43
+    },
+    {
+        "id": 845,
+        "score": 8,
+        "moves": 163,
+        "time_seconds": 107
+    },
+    {
+        "id": 846,
+        "score": 7,
+        "moves": 181,
+        "time_seconds": 69
+    },
+    {
+        "id": 847,
+        "score": 12,
+        "moves": 160,
+        "time_seconds": 76
+    },
+    {
+        "id": 848,
+        "score": 4,
+        "moves": 115,
+        "time_seconds": 53
+    },
+    {
+        "id": 849,
+        "score": 7,
+        "moves": 100,
+        "time_seconds": 68
+    },
+    {
+        "id": 850,
+        "score": 6,
+        "moves": 95,
+        "time_seconds": 54
+    },
+    {
+        "id": 851,
+        "score": 5,
+        "moves": 92,
+        "time_seconds": 70
+    },
+    {
+        "id": 852,
+        "score": 17,
+        "moves": 263,
+        "time_seconds": 100
+    },
+    {
+        "id": 853,
+        "score": 11,
+        "moves": 127,
+        "time_seconds": 44
+    },
+    {
+        "id": 854,
+        "score": 21,
+        "moves": 334,
+        "time_seconds": 186
+    },
+    {
+        "id": 855,
+        "score": 4,
+        "moves": 88,
+        "time_seconds": 43
+    },
+    {
+        "id": 856,
+        "score": 16,
+        "moves": 154,
+        "time_seconds": 67
+    },
+    {
+        "id": 857,
+        "score": 6,
+        "moves": 130,
+        "time_seconds": 65
+    },
+    {
+        "id": 858,
+        "score": 20,
+        "moves": 324,
+        "time_seconds": 211
+    },
+    {
+        "id": 859,
+        "score": 19,
+        "moves": 263,
+        "time_seconds": 149
+    },
+    {
+        "id": 860,
+        "score": 10,
+        "moves": 238,
+        "time_seconds": 83
+    },
+    {
+        "id": 861,
+        "score": 20,
+        "moves": 380,
+        "time_seconds": 211
+    },
+    {
+        "id": 862,
+        "score": 12,
+        "moves": 248,
+        "time_seconds": 111
+    },
+    {
+        "id": 863,
+        "score": 3,
+        "moves": 73,
+        "time_seconds": 50
+    },
+    {
+        "id": 864,
+        "score": 12,
+        "moves": 273,
+        "time_seconds": 114
+    },
+    {
+        "id": 865,
+        "score": 6,
+        "moves": 136,
+        "time_seconds": 103
+    },
+    {
+        "id": 866,
+        "score": 3,
+        "moves": 74,
+        "time_seconds": 53
+    },
+    {
+        "id": 867,
+        "score": 17,
+        "moves": 287,
+        "time_seconds": 156
+    },
+    {
+        "id": 868,
+        "score": 8,
+        "moves": 136,
+        "time_seconds": 65
+    },
+    {
+        "id": 869,
+        "score": 0,
+        "moves": 39,
+        "time_seconds": 15
+    },
+    {
+        "id": 870,
+        "score": 9,
+        "moves": 133,
+        "time_seconds": 47
+    },
+    {
+        "id": 871,
+        "score": 13,
+        "moves": 220,
+        "time_seconds": 87
+    },
+    {
+        "id": 872,
+        "score": 17,
+        "moves": 330,
+        "time_seconds": 186
+    },
+    {
+        "id": 873,
+        "score": 14,
+        "moves": 187,
+        "time_seconds": 142
+    },
+    {
+        "id": 874,
+        "score": 4,
+        "moves": 94,
+        "time_seconds": 58
+    },
+    {
+        "id": 875,
+        "score": 18,
+        "moves": 270,
+        "time_seconds": 108
+    },
+    {
+        "id": 876,
+        "score": 21,
+        "moves": 446,
+        "time_seconds": 212
+    },
+    {
+        "id": 877,
+        "score": 21,
+        "moves": 326,
+        "time_seconds": 160
+    },
+    {
+        "id": 878,
+        "score": 22,
+        "moves": 387,
+        "time_seconds": 139
+    },
+    {
+        "id": 879,
+        "score": 11,
+        "moves": 242,
+        "time_seconds": 110
+    },
+    {
+        "id": 880,
+        "score": 0,
+        "moves": 34,
+        "time_seconds": 20
+    },
+    {
+        "id": 881,
+        "score": 20,
+        "moves": 389,
+        "time_seconds": 153
+    },
+    {
+        "id": 882,
+        "score": 19,
+        "moves": 379,
+        "time_seconds": 126
+    },
+    {
+        "id": 883,
+        "score": 14,
+        "moves": 215,
+        "time_seconds": 109
+    },
+    {
+        "id": 884,
+        "score": 11,
+        "moves": 222,
+        "time_seconds": 67
+    },
+    {
+        "id": 885,
+        "score": 21,
+        "moves": 359,
+        "time_seconds": 226
+    },
+    {
+        "id": 886,
+        "score": 16,
+        "moves": 335,
+        "time_seconds": 195
+    },
+    {
+        "id": 887,
+        "score": 18,
+        "moves": 241,
+        "time_seconds": 178
+    },
+    {
+        "id": 888,
+        "score": 8,
+        "moves": 90,
+        "time_seconds": 29
+    },
+    {
+        "id": 889,
+        "score": 1,
+        "moves": 23,
+        "time_seconds": 7
+    },
+    {
+        "id": 890,
+        "score": 13,
+        "moves": 273,
+        "time_seconds": 120
+    },
+    {
+        "id": 891,
+        "score": 18,
+        "moves": 224,
+        "time_seconds": 141
+    },
+    {
+        "id": 892,
+        "score": 17,
+        "moves": 240,
+        "time_seconds": 127
+    },
+    {
+        "id": 893,
+        "score": 17,
+        "moves": 283,
+        "time_seconds": 151
+    },
+    {
+        "id": 894,
+        "score": 16,
+        "moves": 226,
+        "time_seconds": 160
+    },
+    {
+        "id": 895,
+        "score": 11,
+        "moves": 131,
+        "time_seconds": 55
+    },
+    {
+        "id": 896,
+        "score": 3,
+        "moves": 68,
+        "time_seconds": 37
+    },
+    {
+        "id": 897,
+        "score": 3,
+        "moves": 76,
+        "time_seconds": 40
+    },
+    {
+        "id": 898,
+        "score": 0,
+        "moves": 19,
+        "time_seconds": 13
+    },
+    {
+        "id": 899,
+        "score": 2,
+        "moves": 73,
+        "time_seconds": 57
+    },
+    {
+        "id": 900,
+        "score": 20,
+        "moves": 320,
+        "time_seconds": 133
+    },
+    {
+        "id": 901,
+        "score": 15,
+        "moves": 241,
+        "time_seconds": 127
+    },
+    {
+        "id": 902,
+        "score": 23,
+        "moves": 482,
+        "time_seconds": 234
+    },
+    {
+        "id": 903,
+        "score": 12,
+        "moves": 211,
+        "time_seconds": 105
+    },
+    {
+        "id": 904,
+        "score": 1,
+        "moves": 46,
+        "time_seconds": 18
+    },
+    {
+        "id": 905,
+        "score": 0,
+        "moves": 19,
+        "time_seconds": 6
+    },
+    {
+        "id": 906,
+        "score": 23,
+        "moves": 232,
+        "time_seconds": 71
+    },
+    {
+        "id": 907,
+        "score": 12,
+        "moves": 193,
+        "time_seconds": 122
+    },
+    {
+        "id": 908,
+        "score": 18,
+        "moves": 238,
+        "time_seconds": 176
+    },
+    {
+        "id": 909,
+        "score": 18,
+        "moves": 258,
+        "time_seconds": 122
+    },
+    {
+        "id": 910,
+        "score": 22,
+        "moves": 280,
+        "time_seconds": 194
+    },
+    {
+        "id": 911,
+        "score": 12,
+        "moves": 207,
+        "time_seconds": 79
+    },
+    {
+        "id": 912,
+        "score": 4,
+        "moves": 76,
+        "time_seconds": 58
+    },
+    {
+        "id": 913,
+        "score": 14,
+        "moves": 263,
+        "time_seconds": 134
+    },
+    {
+        "id": 914,
+        "score": 21,
+        "moves": 312,
+        "time_seconds": 185
+    },
+    {
+        "id": 915,
+        "score": 3,
+        "moves": 59,
+        "time_seconds": 32
+    },
+    {
+        "id": 916,
+        "score": 11,
+        "moves": 222,
+        "time_seconds": 67
+    },
+    {
+        "id": 917,
+        "score": 13,
+        "moves": 220,
+        "time_seconds": 130
+    },
+    {
+        "id": 918,
+        "score": 3,
+        "moves": 89,
+        "time_seconds": 50
+    },
+    {
+        "id": 919,
+        "score": 16,
+        "moves": 273,
+        "time_seconds": 87
+    },
+    {
+        "id": 920,
+        "score": 9,
+        "moves": 156,
+        "time_seconds": 51
+    },
+    {
+        "id": 921,
+        "score": 17,
+        "moves": 314,
+        "time_seconds": 174
+    },
+    {
+        "id": 922,
+        "score": 15,
+        "moves": 350,
+        "time_seconds": 198
+    },
+    {
+        "id": 923,
+        "score": 6,
+        "moves": 140,
+        "time_seconds": 68
+    },
+    {
+        "id": 924,
+        "score": 8,
+        "moves": 119,
+        "time_seconds": 39
+    },
+    {
+        "id": 925,
+        "score": 0,
+        "moves": 48,
+        "time_seconds": 21
+    },
+    {
+        "id": 926,
+        "score": 23,
+        "moves": 220,
+        "time_seconds": 111
+    },
+    {
+        "id": 927,
+        "score": 17,
+        "moves": 289,
+        "time_seconds": 157
+    },
+    {
+        "id": 928,
+        "score": 20,
+        "moves": 365,
+        "time_seconds": 278
+    },
+    {
+        "id": 929,
+        "score": 14,
+        "moves": 195,
+        "time_seconds": 92
+    },
+    {
+        "id": 930,
+        "score": 3,
+        "moves": 73,
+        "time_seconds": 52
+    },
+    {
+        "id": 931,
+        "score": 5,
+        "moves": 120,
+        "time_seconds": 84
+    },
+    {
+        "id": 932,
+        "score": 18,
+        "moves": 223,
+        "time_seconds": 147
+    },
+    {
+        "id": 933,
+        "score": 17,
+        "moves": 187,
+        "time_seconds": 142
+    },
+    {
+        "id": 934,
+        "score": 0,
+        "moves": 23,
+        "time_seconds": 7
+    },
+    {
+        "id": 935,
+        "score": 3,
+        "moves": 59,
+        "time_seconds": 21
+    },
+    {
+        "id": 936,
+        "score": 4,
+        "moves": 91,
+        "time_seconds": 32
+    },
+    {
+        "id": 937,
+        "score": 11,
+        "moves": 182,
+        "time_seconds": 100
+    },
+    {
+        "id": 938,
+        "score": 19,
+        "moves": 377,
+        "time_seconds": 264
+    },
+    {
+        "id": 939,
+        "score": 20,
+        "moves": 178,
+        "time_seconds": 57
+    },
+    {
+        "id": 940,
+        "score": 15,
+        "moves": 214,
+        "time_seconds": 167
+    },
+    {
+        "id": 941,
+        "score": 13,
+        "moves": 221,
+        "time_seconds": 112
+    },
+    {
+        "id": 942,
+        "score": 19,
+        "moves": 298,
+        "time_seconds": 197
+    },
+    {
+        "id": 943,
+        "score": 5,
+        "moves": 98,
+        "time_seconds": 44
+    },
+    {
+        "id": 944,
+        "score": 1,
+        "moves": 29,
+        "time_seconds": 22
+    },
+    {
+        "id": 945,
+        "score": 15,
+        "moves": 294,
+        "time_seconds": 157
+    },
+    {
+        "id": 946,
+        "score": 14,
+        "moves": 177,
+        "time_seconds": 108
+    },
+    {
+        "id": 947,
+        "score": 10,
+        "moves": 120,
+        "time_seconds": 36
+    },
+    {
+        "id": 948,
+        "score": 15,
+        "moves": 244,
+        "time_seconds": 91
+    },
+    {
+        "id": 949,
+        "score": 9,
+        "moves": 122,
+        "time_seconds": 38
+    },
+    {
+        "id": 950,
+        "score": 8,
+        "moves": 121,
+        "time_seconds": 58
+    },
+    {
+        "id": 951,
+        "score": 0,
+        "moves": 18,
+        "time_seconds": 9
+    },
+    {
+        "id": 952,
+        "score": 17,
+        "moves": 341,
+        "time_seconds": 210
+    },
+    {
+        "id": 953,
+        "score": 2,
+        "moves": 75,
+        "time_seconds": 31
+    },
+    {
+        "id": 954,
+        "score": 2,
+        "moves": 61,
+        "time_seconds": 47
+    },
+    {
+        "id": 955,
+        "score": 15,
+        "moves": 137,
+        "time_seconds": 77
+    },
+    {
+        "id": 956,
+        "score": 16,
+        "moves": 299,
+        "time_seconds": 168
+    },
+    {
+        "id": 957,
+        "score": 18,
+        "moves": 197,
+        "time_seconds": 79
+    },
+    {
+        "id": 958,
+        "score": 19,
+        "moves": 308,
+        "time_seconds": 93
+    },
+    {
+        "id": 959,
+        "score": 7,
+        "moves": 143,
+        "time_seconds": 82
+    },
+    {
+        "id": 960,
+        "score": 18,
+        "moves": 340,
+        "time_seconds": 176
+    },
+    {
+        "id": 961,
+        "score": 19,
+        "moves": 202,
+        "time_seconds": 124
+    },
+    {
+        "id": 962,
+        "score": 24,
+        "moves": 392,
+        "time_seconds": 223
+    },
+    {
+        "id": 963,
+        "score": 3,
+        "moves": 90,
+        "time_seconds": 70
+    },
+    {
+        "id": 964,
+        "score": 8,
+        "moves": 160,
+        "time_seconds": 107
+    },
+    {
+        "id": 965,
+        "score": 18,
+        "moves": 258,
+        "time_seconds": 122
+    },
+    {
+        "id": 966,
+        "score": 6,
+        "moves": 129,
+        "time_seconds": 56
+    },
+    {
+        "id": 967,
+        "score": 21,
+        "moves": 363,
+        "time_seconds": 261
+    },
+    {
+        "id": 968,
+        "score": 10,
+        "moves": 229,
+        "time_seconds": 163
+    },
+    {
+        "id": 969,
+        "score": 15,
+        "moves": 300,
+        "time_seconds": 207
+    },
+    {
+        "id": 970,
+        "score": 16,
+        "moves": 177,
+        "time_seconds": 94
+    },
+    {
+        "id": 971,
+        "score": 22,
+        "moves": 209,
+        "time_seconds": 139
+    },
+    {
+        "id": 972,
+        "score": 23,
+        "moves": 480,
+        "time_seconds": 147
+    },
+    {
+        "id": 973,
+        "score": 2,
+        "moves": 57,
+        "time_seconds": 26
+    },
+    {
+        "id": 974,
+        "score": 5,
+        "moves": 88,
+        "time_seconds": 54
+    },
+    {
+        "id": 975,
+        "score": 23,
+        "moves": 479,
+        "time_seconds": 153
+    },
+    {
+        "id": 976,
+        "score": 0,
+        "moves": 21,
+        "time_seconds": 9
+    },
+    {
+        "id": 977,
+        "score": 3,
+        "moves": 60,
+        "time_seconds": 20
+    },
+    {
+        "id": 978,
+        "score": 14,
+        "moves": 180,
+        "time_seconds": 74
+    },
+    {
+        "id": 979,
+        "score": 13,
+        "moves": 279,
+        "time_seconds": 163
+    },
+    {
+        "id": 980,
+        "score": 10,
+        "moves": 151,
+        "time_seconds": 99
+    },
+    {
+        "id": 981,
+        "score": 11,
+        "moves": 160,
+        "time_seconds": 104
+    },
+    {
+        "id": 982,
+        "score": 20,
+        "moves": 267,
+        "time_seconds": 162
+    },
+    {
+        "id": 983,
+        "score": 18,
+        "moves": 312,
+        "time_seconds": 151
+    },
+    {
+        "id": 984,
+        "score": 20,
+        "moves": 280,
+        "time_seconds": 220
+    },
+    {
+        "id": 985,
+        "score": 9,
+        "moves": 163,
+        "time_seconds": 83
+    },
+    {
+        "id": 986,
+        "score": 1,
+        "moves": 43,
+        "time_seconds": 27
+    },
+    {
+        "id": 987,
+        "score": 19,
+        "moves": 214,
+        "time_seconds": 79
+    },
+    {
+        "id": 988,
+        "score": 10,
+        "moves": 134,
+        "time_seconds": 42
+    },
+    {
+        "id": 989,
+        "score": 14,
+        "moves": 299,
+        "time_seconds": 119
+    },
+    {
+        "id": 990,
+        "score": 15,
+        "moves": 249,
+        "time_seconds": 143
+    },
+    {
+        "id": 991,
+        "score": 7,
+        "moves": 89,
+        "time_seconds": 37
+    },
+    {
+        "id": 992,
+        "score": 24,
+        "moves": 483,
+        "time_seconds": 230
+    },
+    {
+        "id": 993,
+        "score": 7,
+        "moves": 124,
+        "time_seconds": 49
+    },
+    {
+        "id": 994,
+        "score": 0,
+        "moves": 21,
+        "time_seconds": 9
+    },
+    {
+        "id": 995,
+        "score": 21,
+        "moves": 304,
+        "time_seconds": 109
+    },
+    {
+        "id": 996,
+        "score": 21,
+        "moves": 197,
+        "time_seconds": 82
+    },
+    {
+        "id": 997,
+        "score": 9,
+        "moves": 143,
+        "time_seconds": 68
+    },
+    {
+        "id": 998,
+        "score": 3,
+        "moves": 86,
+        "time_seconds": 48
+    },
+    {
+        "id": 999,
+        "score": 12,
+        "moves": 158,
+        "time_seconds": 104
+    },
+    {
+        "id": 1000,
+        "score": 2,
+        "moves": 72,
+        "time_seconds": 27
+    }
+]
